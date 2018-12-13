@@ -367,7 +367,7 @@ body {
   font-size: 15px;
   line-height: 1.6;
   background-color: #fff;
-  font-family: 'sourcesanspro', 'Helvetica Neue', Arial, sans-serif; }
+  font-family: -apple-system-font,BlinkMacSystemFont,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei UI","Microsoft YaHei",Arial,sans-serif; }
 
 ul.nav,
 ul.post-list {
@@ -466,6 +466,8 @@ header {
     float: left;
     width: 125px;
     color: #7f8c8d; }
+    .archive .post-info .post-author {
+      display: inline; }
 
 .post {
   padding-top: 1em; }
@@ -473,11 +475,13 @@ header {
 .post-block .post-title {
   margin: 0.65em 0;
   color: #2c3e50;
-  font-size: 1.5em; }
+  font-size: 2em; }
 
 .post-block .post-info {
-  color: #7f8c8d;
-  margin: 1.2em 0; }
+  margin: 1.2em 0;
+  color: black;
+  font-size: 15px;
+  font-style: italic; }
   .post-block .post-info span {
     margin-left: 0.5rem; }
   .post-block .post-info a.post-from {
@@ -487,23 +491,37 @@ header {
     font-size: 12px;
     color: white;
     background-color: #E36B6B; }
+  .post-block .post-info .post-author {
+    display: inline; }
+
+.post-block .post-info-end {
+  border: 1px solid lightgray;
+  margin-top: 40px; }
 
 .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
+  font-weight: 400;
+  color: #42b983;
   position: relative;
   margin: 1em 0; }
 
 .post-content h4 a:before, .post-content h5 a:before, .post-content h6 a:before {
   content: ""; }
 
-.post-content h2, .post-content h3 {
+.post-content h2 {
+  font-size: 26px; }
+
+.post-content h3 {
+  font-size: 24px; }
+
+.post-content h4 {
   font-size: 22px; }
 
-.post-content h4, .post-content h5, .post-content h6 {
+.post-content h5, .post-content h6 {
   font-size: 18px; }
 
 .post-content a {
-  color: #42b983;
-  word-break: break-all; }
+  word-break: break-all;
+  color: #D63E0A; }
 
 .post-content blockquote {
   margin: 2em 0;
@@ -655,6 +673,7 @@ pre {
   content: 'C++'; }
 
 pre {
+  font-size: 15px !important;
   color: #525252; }
   pre .function .keyword,
   pre .constant {
@@ -750,14 +769,14 @@ pre {
 main.container {
   margin: 2em 10px; }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 800px) {
   .wrap {
-    width: 700px;
+    width: 800px;
     margin: 0 auto; }
   header {
     padding: 20px 100px; } }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
   .wrap {
     width: 100%; }
   header {
