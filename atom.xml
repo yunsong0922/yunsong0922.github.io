@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-25T15:46:48.559Z</updated>
+  <updated>2019-01-25T15:49:40.866Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/01/25/%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9F%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6/"/>
+    <id>http://yoursite.com/2019/01/25/类型系统应用研究/</id>
+    <published>2019-01-25T15:49:40.866Z</published>
+    <updated>2019-01-25T15:49:40.866Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>微内核架构应用研究</title>
@@ -38,19 +52,23 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
+    <title>Hello YunSong</title>
     <link href="http://yoursite.com/2018/12/06/hello-world/"/>
     <id>http://yoursite.com/2018/12/06/hello-world/</id>
     <published>2018-12-06T07:29:10.321Z</published>
-    <updated>2018-12-06T09:33:19.494Z</updated>
+    <updated>2019-01-25T15:59:30.628Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h1><span id="quick-start">Quick Start</span></h1><h2><span id="create-a-new-post">Create a new post</span></h2><pre class=" language-js"><code class="language-js">$ hexo <span class="token keyword">new</span> <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3><span id="run-server">Run server</span></h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3><span id="generate-static-files">Generate static files</span></h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3><span id="deploy-to-remote-sites">Deploy to remote sites</span></h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to my site, hope that you will enjoy my article.</p><p>Here is who I am:</p><ul><li>A developer working in Microsoft</li><li>A learner try to seeking rules of everything</li><li>A father for a baby to be borned</li><li>A frend of you</li></ul><p>Here is my profile:</p><ul><li>GitHub:       <a href="https://github.com/yunsong0922" target="_blank" rel="noopener">https://github.com/yunsong0922</a></li><li>Email:        <a href="mailto:lhq9220@gmail.com" target="_blank" rel="noopener">lhq9220@gmail.com</a></li><li>LinkedIn:     <a href="https://www.linkedin.com/in/liuhuaqing/" target="_blank" rel="noopener">https://www.linkedin.com/in/liuhuaqing/</a></li><li>PenName:      YunSong</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;Welcome to my site, hope that you will enjoy my article.&lt;/p&gt;
+&lt;p&gt;Here is who I am:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A developer working in Microsoft&lt;/li&gt;
+&lt;li&gt;
       
     
     </summary>
