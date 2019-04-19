@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/04/20/Architecture%20Foundations/</loc>
+    
+    <lastmod>2019-04-19T23:46:02.843Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/12/09/%E5%BE%AE%E5%86%85%E6%A0%B8%E6%9E%B6%E6%9E%84%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6/</loc>
+    
+    <lastmod>2019-04-19T23:44:21.824Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/01/26/Typing%20System%20Research/</loc>
     
     <lastmod>2019-04-19T23:33:27.890Z</lastmod>
@@ -30,23 +44,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/04/20/Architecture%20Foundations/</loc>
-    
-    <lastmod>2019-04-19T23:18:22.059Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2018/12/06/about-me/</loc>
     
     <lastmod>2019-04-08T01:21:21.358Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/12/09/%E5%BE%AE%E5%86%85%E6%A0%B8%E6%9E%B6%E6%9E%84%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6/</loc>
-    
-    <lastmod>2019-01-25T15:46:48.559Z</lastmod>
     
   </url>
   
