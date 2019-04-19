@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2018/12/06/about-me/</loc>
+    <loc>http://yoursite.com/2019/01/26/Typing%20System%20Research/</loc>
     
-    <lastmod>2019-04-08T01:21:21.358Z</lastmod>
+    <lastmod>2019-04-19T23:33:27.890Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/01/26/%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9F%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6/</loc>
+    <loc>http://yoursite.com/2019/04/20/Dependency%20Management/</loc>
     
-    <lastmod>2019-01-25T16:05:49.098Z</lastmod>
+    <lastmod>2019-04-19T23:20:04.312Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/04/20/DevOps%20Foundations/</loc>
+    
+    <lastmod>2019-04-19T23:19:34.191Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/04/20/Agile%20Management/</loc>
+    
+    <lastmod>2019-04-19T23:19:09.360Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/04/20/Architecture%20Foundations/</loc>
+    
+    <lastmod>2019-04-19T23:18:22.059Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/12/06/about-me/</loc>
+    
+    <lastmod>2019-04-08T01:21:21.358Z</lastmod>
     
   </url>
   

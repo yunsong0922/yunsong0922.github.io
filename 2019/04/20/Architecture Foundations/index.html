@@ -1,0 +1,118 @@
+<!DOCTYPE html><html lang="zh-cn"><head><meta name="generator" content="Hexo 3.8.0"><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> Achitecture Foundations · 芸菘的足迹</title><meta name="description" content="Foundations for agile architecture"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/css/apollo.css"><link rel="search" type="application/opensearchdescription+xml" href="http://yoursite.com/atom.xml" title="芸菘的足迹"><link rel="stylesheet" href="/css/prism.css" type="text/css"></head><body><div class="wrap"><header><a href="/" class="logo-link"><img src="/head.jpeg" alt="logo"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">目录</a></li><li class="nav-list-item"><a href="https://yunsong0922.github.io/2018/12/06/hello-yunsong/" target="_blank" class="nav-list-link">关于我</a></li></ul></header><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">Achitecture Foundations</h1><div class="post-info">2019-04-20<div class="post-author"> 作者: yunsong</div></div><hr class="post-info-end"><div class="post-content"><h3><span id="software-achitecture-introduction">Software Achitecture Introduction</span></h3><ul>
+<li>Choose the component and connect them together</li>
+<li>All effective architecture reflect the needs of your customers and of the domain or business</li>
+<li>Start with the customers and works down towards the implementation</li>
+<li>Work extensively as programmers in order to build that aesthetic sense</li>
+</ul>
+<h3><span id="traditional-architect">Traditional Architect</span></h3><ul>
+<li>The cerntralized architect does all the thinking, everybody else does what whey’re told</li>
+<li>Big and complex designs<ul>
+<li>Code is written after design</li>
+<li>Doesn’t capture the user’s true needs</li>
+<li>Doesn’t allow for learning</li>
+</ul>
+</li>
+<li>Lack of flexibility<ul>
+<li>Painful bureaucratic processes</li>
+<li>Not following the design</li>
+<li>Random improvisation</li>
+</ul>
+</li>
+<li>Slow developemnt process<ul>
+<li>Centralized architect-making decisions</li>
+<li>Wasted time and money</li>
+</ul>
+</li>
+<li>Use code and draw together to decribe design</li>
+</ul>
+<h3><span id="agile-architecutre">Agile Architecutre</span></h3><ul>
+<li>Inspect and Adapt Loop<ul>
+<li>Build/refine -&gt; Deploy -&gt; Review -&gt; Talk to users</li>
+<li>Run experiment if you</li>
+<li>Learn and design incrementally as the system involves</li>
+</ul>
+</li>
+<li>Agile<ul>
+<li>Everybody is an architect</li>
+<li>Nobody asks permission to expriement</li>
+</ul>
+</li>
+<li>Agile Architect - Servant Leader<ul>
+<li>Teaching</li>
+<li>Coaching</li>
+<li>Coordinating</li>
+</ul>
+</li>
+<li>Main design reponsibility: assures coherence across the system<ul>
+<li>Reviews work</li>
+<li>Makes suggestions</li>
+<li>Helps refine processes</li>
+</ul>
+</li>
+<li>Architects<ul>
+<li>Keep big picture in their head</li>
+<li>Say if we do this rather than that, we will doing better than xxx team</li>
+<li>Helps team to fix problems</li>
+<li>Nudges the structure of the architecture in the direction that their experiences tells them will work best</li>
+<li>Help the team to make good decisions</li>
+</ul>
+</li>
+<li>Good Architecture<ul>
+<li>Simplicity</li>
+<li>Maintainability</li>
+<li>Testability</li>
+</ul>
+</li>
+<li>Architecture &amp;&amp; Design Patterns<ul>
+<li>Design patterns provide sets of optimal solutions</li>
+<li>Architecture is the interaction of design patterns</li>
+<li>The more systems you work with or on, the more you understand the trade-offs and interconnections</li>
+</ul>
+</li>
+<li>Improve Technical Understanding<ul>
+<li>Read Code</li>
+<li>Study open-source projects</li>
+<li>Education &amp;&amp; Reading</li>
+<li>Go to vendor-focused conferences</li>
+<li>Speak to other architects</li>
+<li>Learn about technologies used in real systems</li>
+<li>Write code</li>
+<li>Create meetup</li>
+<li>Work collabratively to solve problems</li>
+<li>Design systems - Learn by practicing</li>
+<li>Writing and Sharing</li>
+</ul>
+</li>
+<li>Skilled architect must be skilled programmer</li>
+</ul>
+<h3><span id="thinking-architectually">Thinking Architectually</span></h3><ul>
+<li>The architecutre of your software and the communication of your organizaiton has to match - Conway’s law</li>
+<li>N-tier softeware is out of date</li>
+<li>We use microservice</li>
+<li>Incremental Design around user story</li>
+<li>DDD</li>
+<li>Bounded Context (Domain) - Class, Module, Package, Sub System</li>
+</ul>
+<h3><span id="architectural-patterns">Architectural Patterns</span></h3><ul>
+<li>Monolith<br><img src="/images/Monolith-Architecture-Time-Consuming.png" alt="monolith"></li>
+<li>Microkernel</li>
+<li>Message-based architectures<ul>
+<li>RMx</li>
+<li>Message Bus</li>
+<li>Pub/Sub Model (kafka’s architecture)</li>
+</ul>
+</li>
+<li>Microservice<ul>
+<li>Book Reference (<a href="https://learning.oreilly.com/library/view/building-microservices/9781491950340/" target="_blank" rel="noopener">Building Microservices</a></li>
+</ul>
+</li>
+<li>Reactive Pattern</li>
+<li></li>
+</ul>
+<p>Event Storming</p>
+<p>Agent Tech - Messaging - - Caching - - Logging - - Monitoring -</p>
+<p>Architects Do Research </p>
+<ul>
+<li>Programmers - Vendors - Conferences - Operations</li>
+</ul>
+</div></article></div></main><footer><div class="paginator"><a href="/2019/04/20/Agile Management/" class="prev">上一篇</a><a href="/2019/04/20/Dependency Management/" class="next">下一篇</a></div><div class="copyright"><p>© 2018 - 2019 <a href="http://yoursite.com">yunsong</a>, powered by <a href="https://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/pinggod/hexo-theme-apollo" target="_blank">hexo-theme-apollo</a>.</p></div></footer></div><script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script></body></html>

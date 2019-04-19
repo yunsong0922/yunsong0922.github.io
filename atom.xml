@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-25T16:05:49.098Z</updated>
+  <updated>2019-04-19T23:19:09.360Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,86 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>类型系统应用研究</title>
-    <link href="http://yoursite.com/2019/01/26/%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9F%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6/"/>
-    <id>http://yoursite.com/2019/01/26/类型系统应用研究/</id>
-    <published>2019-01-25T16:00:00.000Z</published>
-    <updated>2019-01-25T16:05:49.098Z</updated>
+    <title>Agile Management</title>
+    <link href="http://yoursite.com/2019/04/20/Agile%20Management/"/>
+    <id>http://yoursite.com/2019/04/20/Agile Management/</id>
+    <published>2019-04-19T16:00:00.000Z</published>
+    <updated>2019-04-19T23:19:09.360Z</updated>
     
-    <content type="html"><![CDATA[<h1><span id="to-be-continued">To be continued….</span></h1>]]></content>
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Achitecture Foundations</title>
+    <link href="http://yoursite.com/2019/04/20/Architecture%20Foundations/"/>
+    <id>http://yoursite.com/2019/04/20/Architecture Foundations/</id>
+    <published>2019-04-19T16:00:00.000Z</published>
+    <updated>2019-04-19T23:18:22.059Z</updated>
+    
+    <content type="html"><![CDATA[<h3><span id="software-achitecture-introduction">Software Achitecture Introduction</span></h3><ul><li>Choose the component and connect them together</li><li>All effective architecture reflect the needs of your customers and of the domain or business</li><li>Start with the customers and works down towards the implementation</li><li>Work extensively as programmers in order to build that aesthetic sense</li></ul><h3><span id="traditional-architect">Traditional Architect</span></h3><ul><li>The cerntralized architect does all the thinking, everybody else does what whey’re told</li><li>Big and complex designs<ul><li>Code is written after design</li><li>Doesn’t capture the user’s true needs</li><li>Doesn’t allow for learning</li></ul></li><li>Lack of flexibility<ul><li>Painful bureaucratic processes</li><li>Not following the design</li><li>Random improvisation</li></ul></li><li>Slow developemnt process<ul><li>Centralized architect-making decisions</li><li>Wasted time and money</li></ul></li><li>Use code and draw together to decribe design</li></ul><h3><span id="agile-architecutre">Agile Architecutre</span></h3><ul><li>Inspect and Adapt Loop<ul><li>Build/refine -&gt; Deploy -&gt; Review -&gt; Talk to users</li><li>Run experiment if you</li><li>Learn and design incrementally as the system involves</li></ul></li><li>Agile<ul><li>Everybody is an architect</li><li>Nobody asks permission to expriement</li></ul></li><li>Agile Architect - Servant Leader<ul><li>Teaching</li><li>Coaching</li><li>Coordinating</li></ul></li><li>Main design reponsibility: assures coherence across the system<ul><li>Reviews work</li><li>Makes suggestions</li><li>Helps refine processes</li></ul></li><li>Architects<ul><li>Keep big picture in their head</li><li>Say if we do this rather than that, we will doing better than xxx team</li><li>Helps team to fix problems</li><li>Nudges the structure of the architecture in the direction that their experiences tells them will work best</li><li>Help the team to make good decisions</li></ul></li><li>Good Architecture<ul><li>Simplicity</li><li>Maintainability</li><li>Testability</li></ul></li><li>Architecture &amp;&amp; Design Patterns<ul><li>Design patterns provide sets of optimal solutions</li><li>Architecture is the interaction of design patterns</li><li>The more systems you work with or on, the more you understand the trade-offs and interconnections</li></ul></li><li>Improve Technical Understanding<ul><li>Read Code</li><li>Study open-source projects</li><li>Education &amp;&amp; Reading</li><li>Go to vendor-focused conferences</li><li>Speak to other architects</li><li>Learn about technologies used in real systems</li><li>Write code</li><li>Create meetup</li><li>Work collabratively to solve problems</li><li>Design systems - Learn by practicing</li><li>Writing and Sharing</li></ul></li><li>Skilled architect must be skilled programmer</li></ul><h3><span id="thinking-architectually">Thinking Architectually</span></h3><ul><li>The architecutre of your software and the communication of your organizaiton has to match - Conway’s law</li><li>N-tier softeware is out of date</li><li>We use microservice</li><li>Incremental Design around user story</li><li>DDD</li><li>Bounded Context (Domain) - Class, Module, Package, Sub System</li></ul><h3><span id="architectural-patterns">Architectural Patterns</span></h3><ul><li>Monolith<br><img src="/images/Monolith-Architecture-Time-Consuming.png" alt="monolith"></li><li>Microkernel</li><li>Message-based architectures<ul><li>RMx</li><li>Message Bus</li><li>Pub/Sub Model (kafka’s architecture)</li></ul></li><li>Microservice<ul><li>Book Reference (<a href="https://learning.oreilly.com/library/view/building-microservices/9781491950340/" target="_blank" rel="noopener">Building Microservices</a></li></ul></li><li>Reactive Pattern</li><li></li></ul><p>Event Storming</p><p>Agent Tech - Messaging - - Caching - - Logging - - Monitoring -</p><p>Architects Do Research </p><ul><li>Programmers - Vendors - Conferences - Operations</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1&gt;&lt;span id=&quot;to-be-continued&quot;&gt;To be continued….&lt;/span&gt;&lt;/h1&gt;
+        &lt;h3&gt;&lt;span id=&quot;software-achitecture-introduction&quot;&gt;Software Achitecture Introduction&lt;/span&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Choose the component and connect them
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Dependency Management Research</title>
+    <link href="http://yoursite.com/2019/04/20/Dependency%20Management/"/>
+    <id>http://yoursite.com/2019/04/20/Dependency Management/</id>
+    <published>2019-04-19T16:00:00.000Z</published>
+    <updated>2019-04-19T23:20:04.312Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>DevOps Foundations</title>
+    <link href="http://yoursite.com/2019/04/20/DevOps%20Foundations/"/>
+    <id>http://yoursite.com/2019/04/20/DevOps Foundations/</id>
+    <published>2019-04-19T16:00:00.000Z</published>
+    <updated>2019-04-19T23:19:34.191Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Typing System Research</title>
+    <link href="http://yoursite.com/2019/01/26/Typing%20System%20Research/"/>
+    <id>http://yoursite.com/2019/01/26/Typing System Research/</id>
+    <published>2019-01-25T16:00:00.000Z</published>
+    <updated>2019-04-19T23:33:27.890Z</updated>
+    
+    <content type="html"><![CDATA[<h3><span id="to-do">TO DO</span></h3><ul><li>Need to find some paper to read.</li></ul><h3><span id="impact-on-engineers-growth">Impact on engineer’s growth</span></h3><ul><li>With typing system, developer focus on design pattern and model which is the basic elements of architecture. In this case, developer will be a better developer or architect in the future.</li></ul><h3><span id="impact-on-engineering">Impact on engineering</span></h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3&gt;&lt;span id=&quot;to-do&quot;&gt;TO DO&lt;/span&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Need to find some paper to read.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;span id=&quot;impact-on-engineers-growth&quot;&gt;Impact 
       
     
     </summary>
