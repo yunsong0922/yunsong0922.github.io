@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-19T23:19:09.360Z</updated>
+  <updated>2019-05-19T10:04:06.820Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,84 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Domain Driven Design</title>
+    <link href="http://yoursite.com/2019/05/19/Domain%20Driven%20Design/"/>
+    <id>http://yoursite.com/2019/05/19/Domain Driven Design/</id>
+    <published>2019-05-18T16:00:00.000Z</published>
+    <updated>2019-05-19T10:04:06.820Z</updated>
+    
+    <content type="html"><![CDATA[<p>Bounded Context, Domain, Event Storming etc</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Bounded Context, Domain, Event Storming etc&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Leadership Foundations</title>
+    <link href="http://yoursite.com/2019/05/19/Leadership%20Foundations/"/>
+    <id>http://yoursite.com/2019/05/19/Leadership Foundations/</id>
+    <published>2019-05-18T16:00:00.000Z</published>
+    <updated>2019-05-19T09:05:36.406Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Intelligence System Design</title>
+    <link href="http://yoursite.com/2019/04/27/Intelligence%20System%20Design/"/>
+    <id>http://yoursite.com/2019/04/27/Intelligence System Design/</id>
+    <published>2019-04-26T16:00:00.000Z</published>
+    <updated>2019-04-27T15:12:14.174Z</updated>
+    
+    <content type="html"><![CDATA[<h4><span id="reference">Reference</span></h4><ul><li>An Introduction to Retrieval-based Dialogue Systems</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4&gt;&lt;span id=&quot;reference&quot;&gt;Reference&lt;/span&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;An Introduction to Retrieval-based Dialogue Systems&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Agile Management</title>
     <link href="http://yoursite.com/2019/04/20/Agile%20Management/"/>
     <id>http://yoursite.com/2019/04/20/Agile Management/</id>
     <published>2019-04-19T16:00:00.000Z</published>
-    <updated>2019-04-19T23:19:09.360Z</updated>
+    <updated>2019-05-19T10:02:47.633Z</updated>
+    
+    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#agile-fundamentals">Agile Fundamentals</a><ul><li><a href="#conclusion">Conclusion</a></li><li><a href="#aigle-to-the-rescue">Aigle to the Rescue</a></li><li><a href="#agile-menifesto">Agile Menifesto</a></li><li><a href="#principles-behind-the-agile-manifesto">Principles behind the Agile Manifesto</a></li></ul></li><li><a href="#scrum-the-developer-perspective">Scrum: The Developer Perspective</a></li><li><a href="#agile-software-engineering-techniques">Agile Software Engineering Techniques</a></li><li><a href="#time-estimation">Time Estimation</a></li></ul><!-- tocstop --><h2><span id="agile-fundamentals">Agile Fundamentals</span></h2><h3><span id="conclusion">Conclusion</span></h3><ul><li>With Agile in mind that change is inevitable and we need to make full use of developer’s creativity and knowledge to build a better software. <code>We do high level planning and execute with agile in mind in every level for everyone</code></li></ul><h3><span id="aigle-to-the-rescue">Aigle to the Rescue</span></h3><ul><li>Change is inevitable</li><li>Software development is inherently risky</li><li>Successful software projects are dependent on creativity and knowledge of the development team</li><li>Detailed processes and predictive planning from top-down management can be impediment</li></ul><h3><span id="agile-menifesto">Agile Menifesto</span></h3><ul><li><a href="https://agilemanifesto.org" target="_blank" rel="noopener">Agile Menifesto Link</a></li><li>Individuals and interactions over processes and tools</li><li>Working software over comprehensive documentation</li><li>Customer collaboration over contract negotiation</li><li>Responding to change over following a plan</li></ul><h3><span id="principles-behind-the-agile-manifesto">Principles behind the Agile Manifesto</span></h3><ul><li><p><a href="https://agilemanifesto.org/" target="_blank" rel="noopener">Principles behind the Agile Manifesto Link</a></p></li><li><p>Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</p></li><li><p>Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.</p></li><li><p>Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.</p></li><li><p>Business people and developers must work together daily throughout the project.</p></li><li><p>Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.</p></li><li><p>The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.</p></li><li><p>Working software is the primary measure of progress.</p></li><li><p>Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.</p></li><li><p>Continuous attention to technical excellence and good design enhances agility.</p></li><li><p>Simplicity–the art of maximizing the amount of work not done–is essential.</p></li><li><p>The best architectures, requirements, and designs emerge from self-organizing teams.</p></li><li><p>At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.</p></li></ul><h2><span id="scrum-the-developer-perspective">Scrum: The Developer Perspective</span></h2><ul><li><a href="https://www.scrumguides.org/" target="_blank" rel="noopener">Scrum Guide Link</a>. Scrum is a framework for developing and sustaining complex products.</li><li>More abstract in nature</li></ul><h2><span id="agile-software-engineering-techniques">Agile Software Engineering Techniques</span></h2><p>Compare with Scrum, XP is more prescriptive and implementation centric.</p><ul><li>Exetreme Programming (XP)</li><li>Pair programming - One of the key practices of Extreme Programming</li><li>TDD, BDD,</li><li>User Story:<ul><li>One Side: As a XXX, I should be able to XXX, so I know how I am being billed.</li><li>Another Side: Acceptance Criteria</li></ul></li><li>Kanban - A visual process management tool</li><li>Agile Estimation:<ul><li>Fibonacci Scale: 0 1 2 3 5 8 13</li><li>Exponitial Scale: 0 1 2 4 8 16</li><li>Planning Poker: Esimate on consensus</li></ul></li></ul><h2><span id="time-estimation">Time Estimation</span></h2><p>Different work item types have different estimation strategies, the work item pattern could be</p><ul><li>Research<ul><li>[3X][hard to estimate] <strong>Research to clearify the context</strong>, the more details, the accurate, <strong>time of this part could be unlimited, the more the better</strong>, 3X</li></ul></li><li>Learning<ul><li>[1.5X][easy to estimate] <strong>New technology ramp up</strong>, basic new technology is surely needed before start to work, with well prepared training materails, <strong>the time is fixed and easy to control</strong></li></ul></li><li>Design<ul><li>[2.5X][mediate to esitmate] <strong>System design</strong>, the more times we iterate in this stage, the better</li></ul></li><li>Coding<ul><li>[2X][mediate to estimate] <strong>Writing code based on previous stage</strong>, during this time, need to prepare<ul><li>Dependency project management</li><li>Clear</li></ul></li></ul></li><li>Testing</li></ul>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#agile-fundamentals&quot;&gt;Agile Fundamentals&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#a
+      
     
     </summary>
     
@@ -35,9 +106,9 @@
     <link href="http://yoursite.com/2019/04/20/Architecture%20Foundations/"/>
     <id>http://yoursite.com/2019/04/20/Architecture Foundations/</id>
     <published>2019-04-19T16:00:00.000Z</published>
-    <updated>2019-04-19T23:46:02.843Z</updated>
+    <updated>2019-05-19T10:02:26.569Z</updated>
     
-    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#software-achitecture-introduction">Software Achitecture Introduction</a></li><li><a href="#traditional-architect">Traditional Architect</a></li><li><a href="#agile-architecutre">Agile Architecutre</a></li><li><a href="#thinking-architectually">Thinking Architectually</a></li><li><a href="#architectural-patterns">Architectural Patterns</a></li></ul><!-- tocstop --><h3><span id="software-achitecture-introduction">Software Achitecture Introduction</span></h3><ul><li>Choose the component and connect them together</li><li>All effective architecture reflect the needs of your customers and of the domain or business</li><li>Start with the customers and works down towards the implementation</li><li>Work extensively as programmers in order to build that aesthetic sense</li></ul><h3><span id="traditional-architect">Traditional Architect</span></h3><ul><li>The cerntralized architect does all the thinking, everybody else does what whey’re told</li><li>Big and complex designs<ul><li>Code is written after design</li><li>Doesn’t capture the user’s true needs</li><li>Doesn’t allow for learning</li></ul></li><li>Lack of flexibility<ul><li>Painful bureaucratic processes</li><li>Not following the design</li><li>Random improvisation</li></ul></li><li>Slow developemnt process<ul><li>Centralized architect-making decisions</li><li>Wasted time and money</li></ul></li><li>Use code and draw together to decribe design</li></ul><h3><span id="agile-architecutre">Agile Architecutre</span></h3><ul><li>Inspect and Adapt Loop<ul><li>Build/refine -&gt; Deploy -&gt; Review -&gt; Talk to users</li><li>Run experiment if you</li><li>Learn and design incrementally as the system involves</li></ul></li><li>Agile<ul><li>Everybody is an architect</li><li>Nobody asks permission to expriement</li></ul></li><li>Agile Architect - Servant Leader<ul><li>Teaching</li><li>Coaching</li><li>Coordinating</li></ul></li><li>Main design reponsibility: assures coherence across the system<ul><li>Reviews work</li><li>Makes suggestions</li><li>Helps refine processes</li></ul></li><li>Architects<ul><li>Keep big picture in their head</li><li>Say if we do this rather than that, we will doing better than xxx team</li><li>Helps team to fix problems</li><li>Nudges the structure of the architecture in the direction that their experiences tells them will work best</li><li>Help the team to make good decisions</li></ul></li><li>Good Architecture<ul><li>Simplicity</li><li>Maintainability</li><li>Testability</li></ul></li><li>Architecture &amp;&amp; Design Patterns<ul><li>Design patterns provide sets of optimal solutions</li><li>Architecture is the interaction of design patterns</li><li>The more systems you work with or on, the more you understand the trade-offs and interconnections</li></ul></li><li>Improve Technical Understanding<ul><li>Read Code</li><li>Study open-source projects</li><li>Education &amp;&amp; Reading</li><li>Go to vendor-focused conferences</li><li>Speak to other architects</li><li>Learn about technologies used in real systems</li><li>Write code</li><li>Create meetup</li><li>Work collabratively to solve problems</li><li>Design systems - Learn by practicing</li><li>Writing and Sharing</li></ul></li><li>Skilled architect must be skilled programmer</li></ul><h3><span id="thinking-architectually">Thinking Architectually</span></h3><ul><li>The architecutre of your software and the communication of your organizaiton has to match - Conway’s law</li><li>N-tier softeware is out of date</li><li>We use microservice</li><li>Incremental Design around user story</li><li>DDD</li><li>Bounded Context (Domain) - Class, Module, Package, Sub System</li></ul><h3><span id="architectural-patterns">Architectural Patterns</span></h3><ul><li>Monolith<br><img src="/images/monolith-architecture-time-consuming.png" alt="monolith"></li><li>Microkernel</li><li>Message-based architectures<ul><li>RMx</li><li>Message Bus</li><li>Pub/Sub Model (kafka’s architecture)</li></ul></li><li>Microservice<ul><li>Book Reference (<a href="https://learning.oreilly.com/library/view/building-microservices/9781491950340/" target="_blank" rel="noopener">Building Microservices</a>)</li></ul></li><li>Reactive Pattern</li><li></li></ul><p>Event Storming</p><p>Agent Tech - Messaging - - Caching - - Logging - - Monitoring -</p><p>Architects Do Research </p><ul><li>Programmers - Vendors - Conferences - Operations</li></ul>]]></content>
+    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#software-achitecture-introduction">Software Achitecture Introduction</a></li><li><a href="#traditional-architect">Traditional Architect</a></li><li><a href="#agile-architecutre">Agile Architecutre</a></li><li><a href="#thinking-architectually">Thinking Architectually</a></li><li><a href="#architectural-patterns">Architectural Patterns</a></li><li><a href="#architectural-management">Architectural Management</a></li></ul><!-- tocstop --><h3><span id="software-achitecture-introduction">Software Achitecture Introduction</span></h3><ul><li>Choose the component and connect them together</li><li>All effective architecture reflect the needs of your customers and of the domain or business</li><li>Start with the customers and works down towards the implementation</li><li>Work extensively as programmers in order to build that aesthetic sense</li></ul><h3><span id="traditional-architect">Traditional Architect</span></h3><ul><li>The cerntralized architect does all the thinking, everybody else does what whey’re told</li><li>Big and complex designs<ul><li>Code is written after design</li><li>Doesn’t capture the user’s true needs</li><li>Doesn’t allow for learning</li></ul></li><li>Lack of flexibility<ul><li>Painful bureaucratic processes</li><li>Not following the design</li><li>Random improvisation</li></ul></li><li>Slow developemnt process<ul><li>Centralized architect-making decisions</li><li>Wasted time and money</li></ul></li><li>Use code and draw together to decribe design</li></ul><h3><span id="agile-architecutre">Agile Architecutre</span></h3><ul><li>Inspect and Adapt Loop<ul><li>Build/refine -&gt; Deploy -&gt; Review -&gt; Talk to users</li><li>Run experiment if you</li><li>Learn and design incrementally as the system involves</li></ul></li><li>Agile<ul><li>Everybody is an architect</li><li>Nobody asks permission to expriement</li></ul></li><li>Agile Architect - Servant Leader<ul><li>Teaching</li><li>Coaching</li><li>Coordinating</li></ul></li><li>Main design reponsibility: assures coherence across the system<ul><li>Reviews work</li><li>Makes suggestions</li><li>Helps refine processes</li></ul></li><li>Architects<ul><li>Keep big picture in their head</li><li>Say if we do this rather than that, we will doing better than xxx team</li><li>Helps team to fix problems</li><li>Nudges the structure of the architecture in the direction that their experiences tells them will work best</li><li>Help the team to make good decisions</li></ul></li><li>Good Architecture<ul><li>Simplicity</li><li>Maintainability</li><li>Testability</li></ul></li><li>Architecture &amp;&amp; Design Patterns<ul><li>Design patterns provide sets of optimal solutions</li><li>Architecture is the interaction of design patterns</li><li>The more systems you work with or on, the more you understand the trade-offs and interconnections</li></ul></li><li>Improve Technical Understanding<ul><li>Read Code</li><li>Study open-source projects</li><li>Education &amp;&amp; Reading</li><li>Go to vendor-focused conferences</li><li>Speak to other architects</li><li>Learn about technologies used in real systems</li><li>Write code</li><li>Create meetup</li><li>Work collabratively to solve problems</li><li>Design systems - Learn by practicing</li><li>Writing and Sharing</li></ul></li><li>Skilled architect must be skilled programmer</li></ul><h3><span id="thinking-architectually">Thinking Architectually</span></h3><ul><li>The architecutre of your software and the communication of your organizaiton has to match - Conway’s law</li><li>N-tier softeware is out of date</li><li>We use microservice</li><li>Incremental Design around user story</li><li>DDD</li><li>Bounded Context (Domain) - Class, Module, Package, Sub System</li></ul><h3><span id="architectural-patterns">Architectural Patterns</span></h3><ul><li>Monolith<br><img src="/images/monolith-architecture-time-consuming.png" alt="monolith"></li><li>Microkernel</li><li>Message-based architectures<ul><li>RMx</li><li>Message Bus</li><li>Pub/Sub Model (kafka’s architecture)</li></ul></li><li>Microservice<ul><li>Book Reference (<a href="https://learning.oreilly.com/library/view/building-microservices/9781491950340/" target="_blank" rel="noopener">Building Microservices</a>)</li></ul></li><li>Reactive Pattern</li></ul><h3><span id="architectural-management">Architectural Management</span></h3><ul><li>Learn from Alibaba, Facebook, Google<ul><li>Team technical sharing culture</li><li><strong>Cooperate and help first with redmond team</strong></li><li>Have v-team in mind</li><li>Great goal with great people<ul><li>Clear and great project first</li><li>Attract me to do this project</li></ul></li><li>Leadership for everyone<ul><li>Create Clarity</li><li>Generate Energy</li><li>Deliver Success</li></ul></li></ul></li></ul><p>Event Storming</p><p>Agent Tech - Messaging - - Caching - - Logging - - Monitoring -</p><p>Architects Do Research</p><ul><li>Programmers - Vendors - Conferences - Operations</li></ul>]]></content>
     
     <summary type="html">
     
@@ -55,11 +126,11 @@
   </entry>
   
   <entry>
-    <title>Dependency Management Research</title>
-    <link href="http://yoursite.com/2019/04/20/Dependency%20Management/"/>
-    <id>http://yoursite.com/2019/04/20/Dependency Management/</id>
+    <title>DevOps Foundations</title>
+    <link href="http://yoursite.com/2019/04/20/DevOps%20Foundations/"/>
+    <id>http://yoursite.com/2019/04/20/DevOps Foundations/</id>
     <published>2019-04-19T16:00:00.000Z</published>
-    <updated>2019-04-19T23:20:04.312Z</updated>
+    <updated>2019-04-19T23:19:34.191Z</updated>
     
     <summary type="html">
     
@@ -69,13 +140,20 @@
   </entry>
   
   <entry>
-    <title>DevOps Foundations</title>
-    <link href="http://yoursite.com/2019/04/20/DevOps%20Foundations/"/>
-    <id>http://yoursite.com/2019/04/20/DevOps Foundations/</id>
+    <title>Dependency Management Research</title>
+    <link href="http://yoursite.com/2019/04/20/Dependency%20Management/"/>
+    <id>http://yoursite.com/2019/04/20/Dependency Management/</id>
     <published>2019-04-19T16:00:00.000Z</published>
-    <updated>2019-04-19T23:19:34.191Z</updated>
+    <updated>2019-04-24T00:07:46.505Z</updated>
+    
+    <content type="html"><![CDATA[<h2><span id="js-module-type">Js Module Type</span></h2><pre class=" language-js"><code class="language-js"><span class="token comment" spellcheck="true">// export amd module</span>define<span class="token comment" spellcheck="true">// import amd module</span>require<span class="token comment" spellcheck="true">// export commonjs module</span><span class="token comment" spellcheck="true">// import commonjs module</span><span class="token keyword">const</span> react <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">'react'</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token comment" spellcheck="true">// export es6 module</span><span class="token comment" spellcheck="true">// import es6 module</span><span class="token keyword">import</span> react <span class="token keyword">from</span> <span class="token string">'react'</span><span class="token punctuation">;</span><span class="token keyword">import</span><span class="token punctuation">(</span><span class="token string">'react'</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">then</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">{</span> <span class="token keyword">default</span><span class="token punctuation">:</span> react <span class="token punctuation">}</span><span class="token punctuation">)</span> <span class="token operator">=</span><span class="token operator">></span> <span class="token punctuation">{</span>  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'do something'</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;h2&gt;&lt;span id=&quot;js-module-type&quot;&gt;Js Module Type&lt;/span&gt;&lt;/h2&gt;&lt;pre class=&quot; language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot; spel
+      
     
     </summary>
     
@@ -129,12 +207,12 @@
   
   <entry>
     <title>About Me</title>
-    <link href="http://yoursite.com/2018/12/06/about-me/"/>
-    <id>http://yoursite.com/2018/12/06/about-me/</id>
+    <link href="http://yoursite.com/2018/12/06/About%20Me/"/>
+    <id>http://yoursite.com/2018/12/06/About Me/</id>
     <published>2018-12-06T07:29:10.321Z</published>
-    <updated>2019-04-08T01:21:21.358Z</updated>
+    <updated>2019-05-19T07:44:03.513Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to my site, hope that you will enjoy my article.</p><p>Here is who I am:</p><ul><li>A developer working in Microsoft</li><li>A learner try to seeking rules of everything</li><li>A father for a baby to be borned</li><li>A frend of you</li></ul><p>Here is my profile:</p><ul><li>GitHub:       <a href="https://github.com/yunsong0922" target="_blank" rel="noopener">https://github.com/yunsong0922</a></li><li>Email:        <a href="mailto:lhq9220@gmail.com" target="_blank" rel="noopener">lhq9220@gmail.com</a></li><li>LinkedIn:     <a href="https://www.linkedin.com/in/liuhuaqing/" target="_blank" rel="noopener">https://www.linkedin.com/in/liuhuaqing/</a></li><li>PenName:      YunSong</li><li>WeChat:       15117946626</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to my site, hope that you will enjoy my article.</p><p>Here is who I am:</p><ul><li>A developer working in Microsoft</li><li>A learner try to seeking rules of everything</li><li>A father for a baby to be borned</li></ul><p>Here is my profile:</p><ul><li>GitHub:       <a href="https://github.com/yunsong0922" target="_blank" rel="noopener">https://github.com/yunsong0922</a></li><li>Email:        <a href="mailto:lhq9220@gmail.com" target="_blank" rel="noopener">lhq9220@gmail.com</a></li><li>LinkedIn:     <a href="https://www.linkedin.com/in/liuhuaqing/" target="_blank" rel="noopener">https://www.linkedin.com/in/liuhuaqing/</a></li><li>PenName:      YunSong</li><li>WeChat:       15117946626</li></ul>]]></content>
     
     <summary type="html">
     

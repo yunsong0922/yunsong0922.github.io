@@ -2,9 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/05/19/Domain%20Driven%20Design/</loc>
+    
+    <lastmod>2019-05-19T10:04:06.820Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/04/20/Agile%20Management/</loc>
+    
+    <lastmod>2019-05-19T10:02:47.633Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/04/20/Architecture%20Foundations/</loc>
     
-    <lastmod>2019-04-19T23:46:02.843Z</lastmod>
+    <lastmod>2019-05-19T10:02:26.569Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/05/19/Leadership%20Foundations/</loc>
+    
+    <lastmod>2019-05-19T09:05:36.406Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/12/06/About%20Me/</loc>
+    
+    <lastmod>2019-05-19T07:44:03.513Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/04/27/Intelligence%20System%20Design/</loc>
+    
+    <lastmod>2019-04-27T15:12:14.174Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/04/20/Dependency%20Management/</loc>
+    
+    <lastmod>2019-04-24T00:07:46.505Z</lastmod>
     
   </url>
   
@@ -23,30 +65,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/04/20/Dependency%20Management/</loc>
-    
-    <lastmod>2019-04-19T23:20:04.312Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2019/04/20/DevOps%20Foundations/</loc>
     
     <lastmod>2019-04-19T23:19:34.191Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/04/20/Agile%20Management/</loc>
-    
-    <lastmod>2019-04-19T23:19:09.360Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/12/06/about-me/</loc>
-    
-    <lastmod>2019-04-08T01:21:21.358Z</lastmod>
     
   </url>
   
