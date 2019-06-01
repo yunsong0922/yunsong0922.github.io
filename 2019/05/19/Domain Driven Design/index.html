@@ -1,2 +1,43 @@
 <!DOCTYPE html><html lang="zh-cn"><head><meta name="generator" content="Hexo 3.8.0"><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> Domain Driven Design · 芸菘的足迹</title><meta name="description" content="Conclusion for DDD"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/css/apollo.css"><link rel="search" type="application/opensearchdescription+xml" href="http://yoursite.com/atom.xml" title="芸菘的足迹"><link rel="stylesheet" href="/css/prism.css" type="text/css"></head><body><div class="wrap"><header><a href="/" class="logo-link"><img src="/head.jpeg" alt="logo"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">目录</a></li><li class="nav-list-item"><a href="https://yunsong0922.github.io/2018/12/06/hello-yunsong/" target="_blank" class="nav-list-link">关于我</a></li></ul></header><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">Domain Driven Design</h1><div class="post-info">2019-05-19<div class="post-author"> 作者: yunsong</div></div><hr class="post-info-end"><div class="post-content"><p>Bounded Context, Domain, Event Storming etc</p>
-</div></article></div></main><footer><div class="paginator"><a href="/2019/05/19/Leadership Foundations/" class="next">下一篇</a></div><div class="copyright"><p>© 2018 - 2019 <a href="http://yoursite.com">yunsong</a>, powered by <a href="https://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/pinggod/hexo-theme-apollo" target="_blank">hexo-theme-apollo</a>.</p></div></footer></div><script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script></body></html>
+<h2><span id="core-conecepts">Core Conecepts</span></h2><ul>
+<li>Stategic Design</li>
+<li>Bounded Context</li>
+<li>Ubiquitous Language</li>
+<li>Domain Expert</li>
+<li><p>Subdomain</p>
+<ul>
+<li>Core Subdomain</li>
+<li>Supporting Subdomain</li>
+<li>Generic Subdomain</li>
+</ul>
+</li>
+<li><p>Context Mapping</p>
+<ul>
+<li>Partnership</li>
+<li>Shared Kernel</li>
+<li>Customer-Supplier</li>
+<li>Conformist</li>
+<li>Anticorruption Layer</li>
+<li>Open Host Service</li>
+<li>Published Language</li>
+</ul>
+</li>
+<li><p>Aggregate</p>
+</li>
+<li><a href="https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/ch07.html#ch07" target="_blank" rel="noopener">Event Storming</a></li>
+<li>Domain Event - It’s actually a result driven. ‘Product Created’</li>
+<li>User Story</li>
+</ul>
+<h2><span id="summary">Summary</span></h2><p>We begin with the all-important <code>strategic design</code>. You really cannot apply tactical design in an effective way unless you begin with strategic design. Strategic design is used like broad brushstrokes prior to getting into the details of implementation. It highlights what is strategically important to your business, how to divide up the work by importance, and how to best integrate as needed.</p>
+<p>First you will learn how to segregate your domain models using the strategic design pattern called <code>Bounded Contexts</code>. Hand in glove, you will see how to develop a <code>Ubiquitous Language</code> as your domain model within an explicitly Bounded Context.</p>
+<p>You will learn about the importance of engaging with not only developers but also <code>Domain Experts</code> as you develop your model’s Ubiquitous Language. You will see how a team of both software developers and Domain Experts collaborate. This is a vital combination of smart and motivated people who are needed for DDD to produce the best results. The language you develop together through collaboration will become ubiquitous, pervasive, throughout the team’s spoken communication and software model.</p>
+<p>As you advance further into strategic design, you will learn about <code>Subdomains</code> and how these can help you deal with the unbounded complexity of legacy systems, and how to improve your results on greenfield projects. You will also see how to integrate multiple Bounded Contexts using a technique called <code>Context Mapping</code>. Context Maps define both team relationships and technical mechanisms that exist between two integrating <code>Bounded Contexts</code>.</p>
+<p>After I have given you a sound foundation with strategic design, you will discover DDD’s most prominent tactical design tools. <code>Tactical design</code> is like using a thin brush to paint the fine details of your domain model. One of the more important tools is used to <code>aggregate entities and value objects</code> together into a right-sized cluster. It’s the <code>Aggregate pattern</code>.<br>DDD is all about modeling your domain in the most explicit way possible. <code>Using Domain Events will help you both to model explicitly and to share what has occurred within your model with the systems that need to know about it</code>. The interested parties might be your own local Bounded Context and other remote Bounded Contexts.</p>
+<h2><span id="reference">Reference</span></h2><ul>
+<li><a href="https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/ch04.html#ch04" target="_blank" rel="noopener">Domain Driven Design Distilled</a></li>
+<li><a href="https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/pref03lev2sec15.html" target="_blank" rel="noopener">Implement Domain Driven Design</a></li>
+</ul>
+</div></article></div></main><footer><div class="paginator"><a href="/2019/05/19/Leadership Foundations/" class="next">下一篇</a></div><div class="copyright"><p>© 2018 - 2019 <a href="http://yoursite.com">yunsong</a>, powered by <a href="https://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/pinggod/hexo-theme-apollo" target="_blank">hexo-theme-apollo</a>.</p></div></footer></div><script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script><script>(adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2079556695605648",
+    enable_page_level_ads: true
+});</script></body></html>
