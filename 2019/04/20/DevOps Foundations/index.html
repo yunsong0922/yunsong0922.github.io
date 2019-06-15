@@ -1,4 +1,285 @@
-<!DOCTYPE html><html lang="zh-cn"><head><meta name="generator" content="Hexo 3.8.0"><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> DevOps Foundations · 芸菘的足迹</title><meta name="description" content="DevOps Foundations"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/css/apollo.css"><link rel="search" type="application/opensearchdescription+xml" href="http://yoursite.com/atom.xml" title="芸菘的足迹"><link rel="stylesheet" href="/css/prism.css" type="text/css"></head><body><div class="wrap"><header><a href="/" class="logo-link"><img src="/head.jpeg" alt="logo"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">目录</a></li><li class="nav-list-item"><a href="https://yunsong0922.github.io/2018/12/06/hello-yunsong/" target="_blank" class="nav-list-link">关于我</a></li></ul></header><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">DevOps Foundations</h1><div class="post-info">2019-04-20<div class="post-author"> 作者: yunsong</div></div><hr class="post-info-end"><div class="post-content"></div></article></div></main><footer><div class="paginator"><a href="/2019/04/20/Architecture Foundations/" class="prev">上一篇</a><a href="/2019/01/26/Typing System Research/" class="next">下一篇</a></div><div class="copyright"><p>© 2018 - 2019 <a href="http://yoursite.com">yunsong</a>, powered by <a href="https://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/pinggod/hexo-theme-apollo" target="_blank">hexo-theme-apollo</a>.</p></div></footer></div><script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script><script>(adsbygoogle = window.adsbygoogle || []).push({
+<!DOCTYPE html><html lang="zh-cn"><head><meta name="generator" content="Hexo 3.8.0"><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> DevOps Foundations · 芸菘的足迹</title><meta name="description" content="DevOps Foundations"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/css/apollo.css"><link rel="search" type="application/opensearchdescription+xml" href="http://yoursite.com/atom.xml" title="芸菘的足迹"><link rel="stylesheet" href="/css/prism.css" type="text/css"></head><body><div class="wrap"><header><a href="/" class="logo-link"><img src="/head.jpeg" alt="logo"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">目录</a></li><li class="nav-list-item"><a href="https://yunsong0922.github.io/2018/12/06/hello-yunsong/" target="_blank" class="nav-list-link">关于我</a></li></ul></header><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">DevOps Foundations</h1><div class="post-info">2019-04-20<div class="post-author"> 作者: yunsong</div></div><hr class="post-info-end"><div class="post-content">
+
+	<div class="row">
+    <embed src="/files/DevOps_Fundamentals.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+<!-- toc -->
+<ul>
+<li><a href="#chapter-1-devops-basics">Chapter 1: DevOps Basics</a><ul>
+<li><a href="#what-is-devops">What Is DevOps?</a></li>
+<li><a href="#devops-core-values-cams">DevOps Core Values: CAMS</a></li>
+<li><a href="#devops-core-values-the-three-ways">DevOps Core Values: The Three Ways</a></li>
+<li><a href="#your-devops-playbook">Your DevOps Playbook</a></li>
+<li><a href="#ten-practices-for-devops-success-10-6">Ten Practices for DevOps Success: 10-6</a></li>
+</ul>
+</li>
+<li><a href="#chapter-2-devops-a-culture-problem">Chapter 2: DevOps: A Culture Problem</a><ul>
+<li><a href="#the-it-crowd-and-the-coming-storm">The IT Crowd and the Coming Storm</a></li>
+<li><a href="#use-your-words">Use Your Words</a></li>
+<li><a href="#throwing-things-over-walls">Throwing Things Over Walls</a></li>
+<li><a href="#kaizen-continuous-improvement">Kaizen: Continuous Improvement</a></li>
+</ul>
+</li>
+<li><a href="#chapter-3-the-building-blocks-of-devops">Chapter 3: The Building Blocks of DevOps</a><ul>
+<li><a href="#devops-building-block-agile">DevOps Building Block: Agile</a></li>
+<li><a href="#devops-building-block-lean">DevOps Building Block: Lean</a></li>
+<li><a href="#itil-itsm-and-the-sdlc">ITIL, ITSM, and the SDLC</a></li>
+</ul>
+</li>
+<li><a href="#chapter-4-infrastructure-automation">Chapter 4: Infrastructure Automation</a><ul>
+<li><a href="#infrastructure-as-code">Infrastructure As Code</a></li>
+<li><a href="#golden-image-to-foil-ball">Golden Image to Foil Ball</a></li>
+<li><a href="#immutable-deployment">Immutable Deployment</a></li>
+<li><a href="#your-infrastructure-toolchain">Your Infrastructure Toolchain</a></li>
+</ul>
+</li>
+<li><a href="#chapter-5-continuous-delivery">Chapter 5: Continuous Delivery</a><ul>
+<li><a href="#small-fast-better">Small + Fast = Better</a></li>
+<li><a href="#continuous-integration-practices">Continuous Integration Practices</a></li>
+<li><a href="#the-continuous-delivery-pipeline">The Continuous Delivery Pipeline</a></li>
+<li><a href="#the-role-of-qa">The Role Of QA</a></li>
+<li><a href="#your-ci-toolchain">Your CI Toolchain</a></li>
+</ul>
+</li>
+<li><a href="#chapter-6-reliability-engineering">Chapter 6: Reliability Engineering</a><ul>
+<li><a href="#engineering-doesnt-end-with-deployment">Engineering Doesn’t End With Deployment</a></li>
+<li><a href="#design-for-operation-theory">Design For Operation - Theory</a></li>
+<li><a href="#design-for-operation-practice">Design For Operation - Practice</a></li>
+<li><a href="#operate-for-design-metrics-and-monitoring">Operate For Design: Metrics and Monitoring</a></li>
+<li><a href="#operate-for-design-logging">Operate for Design: Logging</a></li>
+<li><a href="#your-sre-toolchain">Your SRE Toolchain</a></li>
+</ul>
+</li>
+<li><a href="#chapter-8-the-future-of-devops">Chapter 8: The Future of DevOps</a><ul>
+<li><a href="#cloud-to-containers-to-serverless">Cloud to Containers to Serverless</a></li>
+<li><a href="#reference">Reference</a></li>
+</ul>
+</li>
+</ul>
+<!-- tocstop -->
+<h1><span id="chapter-1-devops-basics">Chapter 1: DevOps Basics</span></h1><h3><span id="what-is-devops">What Is DevOps?</span></h3><ul>
+<li>DevOps - is the practice of operations and development engineers participating together through the entire service lifecycle; from the design and development process all the way to production support. DevOps is also characterized by operations staff making use of many of the same techniques as developers for their systems work.</li>
+</ul>
+<h3><span id="devops-core-values-cams">DevOps Core Values: CAMS</span></h3><ul>
+<li>CAMS - Culture, Automation, Measurement, Sharing</li>
+</ul>
+<h3><span id="devops-core-values-the-three-ways">DevOps Core Values: The Three Ways</span></h3><ul>
+<li><p>The Three Ways</p>
+<ol>
+<li>Systems Thinking</li>
+<li>Amplifying Feedback Loops</li>
+<li>A Culture of Continuous Experimentation and Learning</li>
+</ol>
+</li>
+</ul>
+<h3><span id="your-devops-playbook">Your DevOps Playbook</span></h3><ul>
+<li><p>5 Key DevOps Methodologies</p>
+<ol>
+<li>People over Process over Tools</li>
+<li>Continuous Delivery</li>
+<li>Lean Management</li>
+<li>Visible Ops style Change Control</li>
+<li>Infrastructure as Code</li>
+</ol>
+</li>
+</ul>
+<p>Ten Practices for DevOps Success: 10-6</p>
+<h3><span id="ten-practices-for-devops-success-10-6">Ten Practices for DevOps Success: 10-6</span></h3><p>10 Practices for DevOps Success</p>
+<ol>
+<li>Chaos Monkey</li>
+<li>Blue/Green Deployments</li>
+<li>Dependency Injection</li>
+<li>Andon Cords</li>
+<li>The Cloud</li>
+<li>Embedded Teams</li>
+<li>Blameless Postmortems</li>
+<li>Status Pages</li>
+<li>Developers On Call</li>
+<li>Incident Command System</li>
+</ol>
+<h1><span id="chapter-2-devops-a-culture-problem">Chapter 2: DevOps: A Culture Problem</span></h1><h3><span id="the-it-crowd-and-the-coming-storm">The IT Crowd and the Coming Storm</span></h3><h3><span id="use-your-words">Use Your Words</span></h3><p>Blameless Postmortems contain:</p>
+<ol>
+<li>A description of the incident</li>
+<li>A description of the root cause</li>
+<li>How the incident was stabilized or fixed.</li>
+<li>A timeline of events including all actions taken to resolve the incident</li>
+<li>How the incident affected customers</li>
+<li>Remediations and corrective actions.</li>
+</ol>
+<p>Transparent Uptime means:</p>
+<ol>
+<li>Admit Failure</li>
+<li>Sound Like A Human</li>
+<li>Have A Communication Channel</li>
+<li>Above All Else, Be Authentic</li>
+</ol>
+<p>Do Unto Others</p>
+<p>Trust Blockers:</p>
+<ul>
+<li>Lack of Context</li>
+<li>Conflicting Goals</li>
+</ul>
+<h3><span id="throwing-things-over-walls">Throwing Things Over Walls</span></h3><h3><span id="kaizen-continuous-improvement">Kaizen: Continuous Improvement</span></h3><p>Kaizen - change for the better</p>
+<p>Kaizen’s Guiding Principles</p>
+<ul>
+<li>Good processes bring good results</li>
+<li>Go see for yourself to grasp the current situation (gemba)</li>
+<li>Speak with data, manage by facts</li>
+<li>Take action to contain and correct root causes of problems</li>
+<li>Work as a team</li>
+<li>Kaizen is everybody’s business</li>
+</ul>
+<h1><span id="chapter-3-the-building-blocks-of-devops">Chapter 3: The Building Blocks of DevOps</span></h1><h3><span id="devops-building-block-agile">DevOps Building Block: Agile</span></h3><h3><span id="devops-building-block-lean">DevOps Building Block: Lean</span></h3><ul>
+<li><p>7 Principles of Lean Software Development</p>
+<ul>
+<li>ELIMINATE WASTE</li>
+<li>AMPLIFY LEARNING</li>
+<li>DECIDE AS LATE AS POSSIBLE</li>
+<li>DELIVER AS FAST AS POSSIBLE</li>
+<li>EMPOWER THE TEAM</li>
+<li>BUILD INTEGRITY IN</li>
+<li>SEE THE WHOLE</li>
+</ul>
+</li>
+<li><p>The Seven Wastes (Muda) of Lean Software</p>
+<ul>
+<li>Waste #1 - Partially Done Work</li>
+<li>Waste #2 - Extra Features</li>
+<li>Waste #3 - Relearning</li>
+<li>Waste #4 - Handoffs</li>
+<li>Waste #5 - Delays</li>
+<li>Waste #6 - Task Switching</li>
+<li>Waste #7 - Defects</li>
+</ul>
+</li>
+<li><p>Build-Measure-Learn</p>
+<ul>
+<li>BUILD – MINIMUM VIABLE PRODUCT</li>
+<li>MEASURE – THE OUTCOME AND INTERNAL METRICS</li>
+<li>LEARN – ABOUT YOUR PROBLEM AND YOUR SOLUTION</li>
+<li>REPEAT – GO DEEPER WHERE IT’S NEEDED</li>
+</ul>
+</li>
+</ul>
+<h3><span id="itil-itsm-and-the-sdlc">ITIL, ITSM, and the SDLC</span></h3><h1><span id="chapter-4-infrastructure-automation">Chapter 4: Infrastructure Automation</span></h1><h3><span id="infrastructure-as-code">Infrastructure As Code</span></h3><h3><span id="golden-image-to-foil-ball">Golden Image to Foil Ball</span></h3><ul>
+<li><p><strong>Provisioning</strong> is the process of making a server ready for operation, including hardware, OS, system services, network connectivity.</p>
+</li>
+<li><p><strong>Deployment</strong> is the process of automatically deploying and upgrading applications on a server.</p>
+</li>
+<li><p><strong>Orchestration</strong> is the act of performing coordinated operations across multiple systems.</p>
+</li>
+<li><p><strong>Configuration management</strong> is an overarching term dealing with change control of system configuration after initial provision, but is often also applied to maintaining and upgrading application and application dependencies.</p>
+</li>
+<li><p><strong>Imperative</strong> - also known as “procedural,” this is an approach where commands desired to produce a state are defined and executed.</p>
+</li>
+<li><p><strong>Declarative</strong> - also known as “functional,” this is an approach where you define a desired state and the tool converges the existing system on the model.</p>
+</li>
+<li><p><strong>Idempotent</strong> - the ability to execute the CM procedure repeatedly and end up in the same state each time.</p>
+</li>
+<li><p><strong>Self service</strong> - is the ability for an end user to kick off one of these processes without having to go through other people.</p>
+</li>
+</ul>
+<h3><span id="immutable-deployment">Immutable Deployment</span></h3><h3><span id="your-infrastructure-toolchain">Your Infrastructure Toolchain</span></h3><ul>
+<li><a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noopener">AWS Cloudformation</a></li>
+<li><a href="https://azure.microsoft.com/en-us/documentation/templates/" target="_blank" rel="noopener">Azure ARM Templates</a></li>
+<li><a href="https://www.terraform.io/" target="_blank" rel="noopener">Hashicorp Terraform</a></li>
+<li><a href="http://www.ubuntu.com/cloud/juju" target="_blank" rel="noopener">Ubuntu Juju</a></li>
+<li><a href="https://www.chef.io/" target="_blank" rel="noopener">Chef</a></li>
+<li><a href="https://puppet.com/" target="_blank" rel="noopener">Puppet</a></li>
+<li><a href="https://www.ansible.com/" target="_blank" rel="noopener">Ansible</a></li>
+<li><a href="https://saltstack.com/community/" target="_blank" rel="noopener">Saltstack</a></li>
+<li><a href="https://cfengine.com/" target="_blank" rel="noopener">Cfengine</a></li>
+<li><a href="http://batsov.com/rubocop/" target="_blank" rel="noopener">Rubocop</a></li>
+<li><a href="http://www.foodcritic.io/" target="_blank" rel="noopener">Foodcritic</a></li>
+<li><a href="https://docs.chef.io/chefspec.html" target="_blank" rel="noopener">Chefspec</a></li>
+<li><a href="http://kitchen.ci/" target="_blank" rel="noopener">kitchenCI</a></li>
+<li><a href="https://docs.chef.io/ohai.html" target="_blank" rel="noopener">Ohai</a></li>
+<li><a href="https://coreos.com/etcd/docs/latest/" target="_blank" rel="noopener">Etcd</a></li>
+<li><a href="https://wiki.apache.org/hadoop/ZooKeeper" target="_blank" rel="noopener">Zookeeper</a></li>
+<li><a href="https://www.consul.io/" target="_blank" rel="noopener">Consul</a></li>
+<li><a href="https://www.docker.com/" target="_blank" rel="noopener">Docker</a></li>
+<li><a href="https://docs.docker.com/swarm/" target="_blank" rel="noopener">Docker swarm</a></li>
+<li><a href="http://kubernetes.io/" target="_blank" rel="noopener">Kubernetes</a></li>
+<li><a href="http://mesos.apache.org/" target="_blank" rel="noopener">Mesos</a></li>
+<li><a href="http://rancher.com/" target="_blank" rel="noopener">Rancher</a></li>
+<li><a href="https://cloud.google.com/container-engine/docs/" target="_blank" rel="noopener">Google cloud platform container engine</a></li>
+<li><a href="https://aws.amazon.com/ecs/" target="_blank" rel="noopener">Amazon ECS</a></li>
+<li><a href="https://www.habitat.sh/" target="_blank" rel="noopener">habitat</a></li>
+</ul>
+<h1><span id="chapter-5-continuous-delivery">Chapter 5: Continuous Delivery</span></h1><h3><span id="small-fast-better">Small + Fast = Better</span></h3><ul>
+<li>Continuous Delivery has the following benefits:<ol>
+<li>Time to market goes down</li>
+<li>Quality increases not decreases</li>
+<li>Limits your Work In Progress</li>
+<li>Shortens lead times for changes</li>
+<li>Improves Mean Time To Recover</li>
+</ol>
+</li>
+</ul>
+<h3><span id="continuous-integration-practices">Continuous Integration Practices</span></h3><ul>
+<li>To successfully perform Continuous Integration:<ol>
+<li>Builds should pass the coffee test (&lt; 5 minutes)</li>
+<li>Commit really small bits</li>
+<li>Don’t leave the build broken</li>
+<li>Use a trunk based development flow</li>
+<li>Don’t allow flaky tests, fix them!</li>
+<li>The build should return a status, a log, and an artifact</li>
+</ol>
+</li>
+</ul>
+<h3><span id="the-continuous-delivery-pipeline">The Continuous Delivery Pipeline</span></h3><ul>
+<li>To successfully perform Continuous Delivery:<ol>
+<li>Only build artifacts once</li>
+<li>Artifacts should be immutable</li>
+<li>Deployment should go to a copy of production before going into production</li>
+<li>Stop deploys if it a previous step fails</li>
+<li>Deployments should be idempotent</li>
+</ol>
+</li>
+</ul>
+<h3><span id="the-role-of-qa">The Role Of QA</span></h3><ul>
+<li>Types of Testing:<ul>
+<li>Unit Testing</li>
+<li>Code Hygiene</li>
+<li>Integration Testing</li>
+<li>TDD / BDD /ATDD</li>
+<li>Infrastructure Testing</li>
+<li>Performance Testing</li>
+<li>Security Testing</li>
+</ul>
+</li>
+</ul>
+<h3><span id="your-ci-toolchain">Your CI Toolchain</span></h3><ul>
+<li>Version Control</li>
+<li>Continuous Integration</li>
+<li>Build</li>
+<li>Test</li>
+<li>Artifact Repository</li>
+<li>Deployment</li>
+</ul>
+<p>Go to PDF to find detail links</p>
+<p>Tool Discovery Trick: Google one of these names “vs” and you’ll get autosuggestions of that tool versus other tools in its space other people are asking about!</p>
+<h1><span id="chapter-6-reliability-engineering">Chapter 6: Reliability Engineering</span></h1><h3><span id="engineering-doesnt-end-with-deployment">Engineering Doesn’t End With Deployment</span></h3><h3><span id="design-for-operation-theory">Design For Operation - Theory</span></h3><h3><span id="design-for-operation-practice">Design For Operation - Practice</span></h3><h3><span id="operate-for-design-metrics-and-monitoring">Operate For Design: Metrics and Monitoring</span></h3><ul>
+<li>The 6 Monitoring Areas<ol>
+<li>Service Performance and Uptime</li>
+<li>Software Component Metrics</li>
+<li>System Metrics</li>
+<li>App Metrics</li>
+<li>Performance</li>
+<li>Security</li>
+</ol>
+</li>
+</ul>
+<h3><span id="operate-for-design-logging">Operate for Design: Logging</span></h3><h3><span id="your-sre-toolchain">Your SRE Toolchain</span></h3><p>Go to PDF to find detail links</p>
+<h1><span id="chapter-8-the-future-of-devops">Chapter 8: The Future of DevOps</span></h1><h3><span id="cloud-to-containers-to-serverless">Cloud to Containers to Serverless</span></h3><p>“<strong>cloud computing</strong> is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction” </p>
+<p>“<strong>Serverless</strong>… is run in stateless compute containers that are event-triggered, ephemeral (may only last for one invocation), and fully managed by a 3rd party.”</p>
+<h3><span id="reference">Reference</span></h3><ul>
+<li><a href="https://www.linkedin.com/learning/devops-foundations/what-is-devops?u=3322" target="_blank" rel="noopener">DevOps Foundations</a></li>
+</ul>
+</div></article></div></main><footer><div class="paginator"><a href="/2019/04/20/Dependency Management/" class="prev">上一篇</a><a href="/2019/04/20/Agile Management/" class="next">下一篇</a></div><div class="copyright"><p>© 2018 - 2019 <a href="http://yoursite.com">yunsong</a>, powered by <a href="https://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/pinggod/hexo-theme-apollo" target="_blank">hexo-theme-apollo</a>.</p></div></footer></div><script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script><script>(adsbygoogle = window.adsbygoogle || []).push({
     google_ad_client: "ca-pub-2079556695605648",
     enable_page_level_ads: true
 });</script></body></html>
