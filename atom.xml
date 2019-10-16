@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-13T08:35:47.694Z</updated>
+  <updated>2019-10-16T03:04:42.700Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wealth Thinking</title>
+    <link href="http://yoursite.com/2019/10/15/Wealth%20Thinking/"/>
+    <id>http://yoursite.com/2019/10/15/Wealth Thinking/</id>
+    <published>2019-10-14T16:00:00.000Z</published>
+    <updated>2019-10-16T03:04:42.700Z</updated>
+    
+    <content type="html"><![CDATA[<!-- toc --><!-- tocstop --><ul><li><a href="https://en.wikipedia.org/wiki/Economy" target="_blank" rel="noopener">Wikipedia Economics</a><ul><li>An economy is an area of the production, distribution and trade, as well as consumption of goods and services by different agents</li><li>一个比较简单个人的定义：一个国家的产能，产能价格由全球供需决定。所以<code>一个国家要根据自身和国际政治经济形势，决定生产什么，不生产什么，进口什么，出口什么，制定什么样的政策来干预这些经济活动</code>。以获取自身最大的经济增长。一个国家的商业经济发达，国家通过税收才能富有，才能跟其他国家的公司（私有或者国有）购买更多东西，从而实现富强。但这是基于全球自由贸易(WTO)的基础的玩法，一旦强势国家使用手段建立贸易壁垒和进行经济制裁，一些在处于经济战略劣势的国家将无法在发展。</li></ul></li><li><a href="https://en.wikipedia.org/wiki/Finance" target="_blank" rel="noopener">Wikipededia Finance Definition</a> <ul><li>Finance is a field that is concerned with the <code>allocation (investment) of assets and liabilities over space and time, often under conditions of risk or uncertainty</code>.Finance can also be defined as the art of money management. Participants in the market aim to price assets based on their risk level, fundamental value, and their expected rate of return. Finance can be split into three sub-categories: <code>public finance, corporate finance and personal finance</code></li></ul></li><li><a href="https://www.youtube.com/watch?v=geoe-6NBy10&amp;list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO&amp;index=15" target="_blank" rel="noopener">Import, Export &amp;&amp; Exchange Rate</a><ul><li>If import &gt; export, then money flows to other country</li><li>If export &gt; import, then mony flows to our country</li><li>汇率由外汇市场成交价决定，汇率会调节外贸商、外企的进出口决策，从而影响国家经济</li><li>Reference<ul><li><a href="https://www.youtube.com/watch?v=Nqsb1aaGZ9Q" target="_blank" rel="noopener">中美贸易战 vs 美日贸易战</a></li></ul></li></ul></li><li>Bubble<ul><li>What’s a Bubble?</li><li>My definition: <code>A bubble is a result/prediction description of a product price fast drop from a high price caused by change of supply and demand ratio</code>. 所以价格崩溃的概率，决定是否是 Bubble 的概率。比如钻石的价格一直很高，说明整个产业链对供需影响的很好，以保证价格不崩溃。关键是不做最后接盘的人。</li></ul></li><li>经济分析<ul><li>本质上是<code>经济数据的分析</code>，没有数据的分析，都是瞎猜。但<code>这些经济数据不会掌握在个人手里，经济数据的分析在于预测和制定合理的干预政策</code>，目的就是 Insight &amp;&amp; Action，之后有了人工智能，经济分析会更加智能</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- toc --&gt;
+&lt;!-- tocstop --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Economy&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wikipedia Economics&lt;/a
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Design Thinking</title>
+    <link href="http://yoursite.com/2019/09/14/Design%20Thinking/"/>
+    <id>http://yoursite.com/2019/09/14/Design Thinking/</id>
+    <published>2019-09-14T08:34:54.258Z</published>
+    <updated>2019-09-15T10:08:08.869Z</updated>
+    
+    <content type="html"><![CDATA[<h1><span id="whats-design-thinking">What’s design thinking?</span></h1><p><img src="/images/Design-Thinking-Process.jpg" alt="Design Thinking Process"></p><h1><span id="reference">Reference</span></h1><ul><li><a href="https://www.douban.com/note/530429694/?dt_platform=com.douban.activity.wechat_friends&amp;dt_dapp=1" target="_blank" rel="noopener">Design Thinking Introduction - 豆瓣</a></li><li><a href="https://zhuanlan.zhihu.com/p/23816631" target="_blank" rel="noopener">设计思维：定义问题和头脑风暴</a></li><li><a href="https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization/skill-of-a-design-thinking-leader?autoplay=true&amp;u=3322" target="_blank" rel="noopener">Design Thinking - LinkedIn Learning</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1&gt;&lt;span id=&quot;whats-design-thinking&quot;&gt;What’s design thinking?&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/images/Design-Thinking-Process.jpg&quot; alt=&quot;Design Thinki
+      
+    
+    </summary>
+    
+    
+      <category term="Design Thinking" scheme="http://yoursite.com/tags/Design-Thinking/"/>
+    
+  </entry>
   
   <entry>
     <title>Over-Communicate Strategy</title>
@@ -85,6 +132,30 @@
   </entry>
   
   <entry>
+    <title>Domain Driven Design</title>
+    <link href="http://yoursite.com/2019/05/19/Domain%20Driven%20Design/"/>
+    <id>http://yoursite.com/2019/05/19/Domain Driven Design/</id>
+    <published>2019-05-18T16:00:00.000Z</published>
+    <updated>2019-06-15T01:21:49.038Z</updated>
+    
+    <content type="html"><![CDATA[<p>Bounded Context, Domain, Event Storming etc</p><h2><span id="core-conecepts">Core Conecepts</span></h2><ul><li>Stategic Design</li><li>Bounded Context</li><li>Ubiquitous Language</li><li>Domain Expert</li><li><p>Subdomain</p><ul><li>Core Subdomain</li><li>Supporting Subdomain</li><li>Generic Subdomain</li></ul></li><li><p>Context Mapping</p><ul><li>Partnership</li><li>Shared Kernel</li><li>Customer-Supplier</li><li>Conformist</li><li>Anticorruption Layer</li><li>Open Host Service</li><li>Published Language</li></ul></li><li><p>Aggregate</p></li><li><a href="https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/ch07.html#ch07" target="_blank" rel="noopener">Event Storming</a></li><li>Domain Event - It’s actually a result driven. ‘Product Created’</li><li>User Story</li></ul><h2><span id="summary">Summary</span></h2><p>We begin with the all-important <code>strategic design</code>. You really cannot apply tactical design in an effective way unless you begin with strategic design. Strategic design is used like broad brushstrokes prior to getting into the details of implementation. It highlights what is strategically important to your business, how to divide up the work by importance, and how to best integrate as needed.</p><p>First you will learn how to segregate your domain models using the strategic design pattern called <code>Bounded Contexts</code>. Hand in glove, you will see how to develop a <code>Ubiquitous Language</code> as your domain model within an explicitly Bounded Context.</p><p>You will learn about the importance of engaging with not only developers but also <code>Domain Experts</code> as you develop your model’s Ubiquitous Language. You will see how a team of both software developers and Domain Experts collaborate. This is a vital combination of smart and motivated people who are needed for DDD to produce the best results. The language you develop together through collaboration will become ubiquitous, pervasive, throughout the team’s spoken communication and software model.</p><p>As you advance further into strategic design, you will learn about <code>Subdomains</code> and how these can help you deal with the unbounded complexity of legacy systems, and how to improve your results on greenfield projects. You will also see how to integrate multiple Bounded Contexts using a technique called <code>Context Mapping</code>. Context Maps define both team relationships and technical mechanisms that exist between two integrating <code>Bounded Contexts</code>.</p><p>After I have given you a sound foundation with strategic design, you will discover DDD’s most prominent tactical design tools. <code>Tactical design</code> is like using a thin brush to paint the fine details of your domain model. One of the more important tools is used to <code>aggregate entities and value objects</code> together into a right-sized cluster. It’s the <code>Aggregate pattern</code>.<br>DDD is all about modeling your domain in the most explicit way possible. <code>Using Domain Events will help you both to model explicitly and to share what has occurred within your model with the systems that need to know about it</code>. The interested parties might be your own local Bounded Context and other remote Bounded Contexts.</p><h2><span id="reference">Reference</span></h2><ul><li><a href="https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/ch04.html#ch04" target="_blank" rel="noopener">Domain Driven Design Distilled</a></li><li><a href="https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/pref03lev2sec15.html" target="_blank" rel="noopener">Implement Domain Driven Design</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Bounded Context, Domain, Event Storming etc&lt;/p&gt;
+&lt;h2&gt;&lt;span id=&quot;core-conecepts&quot;&gt;Core Conecepts&lt;/span&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Stategic Design&lt;/li&gt;
+&lt;li
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Leadership Foundations</title>
     <link href="http://yoursite.com/2019/05/19/Leadership%20Foundations/"/>
     <id>http://yoursite.com/2019/05/19/Leadership Foundations/</id>
@@ -103,30 +174,6 @@
     &lt;embed src=&quot;/files/Leadership_Fundamentals_Handouts.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
 	&lt;/div&gt;
 
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Domain Driven Design</title>
-    <link href="http://yoursite.com/2019/05/19/Domain%20Driven%20Design/"/>
-    <id>http://yoursite.com/2019/05/19/Domain Driven Design/</id>
-    <published>2019-05-18T16:00:00.000Z</published>
-    <updated>2019-06-15T01:21:49.038Z</updated>
-    
-    <content type="html"><![CDATA[<p>Bounded Context, Domain, Event Storming etc</p><h2><span id="core-conecepts">Core Conecepts</span></h2><ul><li>Stategic Design</li><li>Bounded Context</li><li>Ubiquitous Language</li><li>Domain Expert</li><li><p>Subdomain</p><ul><li>Core Subdomain</li><li>Supporting Subdomain</li><li>Generic Subdomain</li></ul></li><li><p>Context Mapping</p><ul><li>Partnership</li><li>Shared Kernel</li><li>Customer-Supplier</li><li>Conformist</li><li>Anticorruption Layer</li><li>Open Host Service</li><li>Published Language</li></ul></li><li><p>Aggregate</p></li><li><a href="https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/ch07.html#ch07" target="_blank" rel="noopener">Event Storming</a></li><li>Domain Event - It’s actually a result driven. ‘Product Created’</li><li>User Story</li></ul><h2><span id="summary">Summary</span></h2><p>We begin with the all-important <code>strategic design</code>. You really cannot apply tactical design in an effective way unless you begin with strategic design. Strategic design is used like broad brushstrokes prior to getting into the details of implementation. It highlights what is strategically important to your business, how to divide up the work by importance, and how to best integrate as needed.</p><p>First you will learn how to segregate your domain models using the strategic design pattern called <code>Bounded Contexts</code>. Hand in glove, you will see how to develop a <code>Ubiquitous Language</code> as your domain model within an explicitly Bounded Context.</p><p>You will learn about the importance of engaging with not only developers but also <code>Domain Experts</code> as you develop your model’s Ubiquitous Language. You will see how a team of both software developers and Domain Experts collaborate. This is a vital combination of smart and motivated people who are needed for DDD to produce the best results. The language you develop together through collaboration will become ubiquitous, pervasive, throughout the team’s spoken communication and software model.</p><p>As you advance further into strategic design, you will learn about <code>Subdomains</code> and how these can help you deal with the unbounded complexity of legacy systems, and how to improve your results on greenfield projects. You will also see how to integrate multiple Bounded Contexts using a technique called <code>Context Mapping</code>. Context Maps define both team relationships and technical mechanisms that exist between two integrating <code>Bounded Contexts</code>.</p><p>After I have given you a sound foundation with strategic design, you will discover DDD’s most prominent tactical design tools. <code>Tactical design</code> is like using a thin brush to paint the fine details of your domain model. One of the more important tools is used to <code>aggregate entities and value objects</code> together into a right-sized cluster. It’s the <code>Aggregate pattern</code>.<br>DDD is all about modeling your domain in the most explicit way possible. <code>Using Domain Events will help you both to model explicitly and to share what has occurred within your model with the systems that need to know about it</code>. The interested parties might be your own local Bounded Context and other remote Bounded Contexts.</p><h2><span id="reference">Reference</span></h2><ul><li><a href="https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/ch04.html#ch04" target="_blank" rel="noopener">Domain Driven Design Distilled</a></li><li><a href="https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/pref03lev2sec15.html" target="_blank" rel="noopener">Implement Domain Driven Design</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Bounded Context, Domain, Event Storming etc&lt;/p&gt;
-&lt;h2&gt;&lt;span id=&quot;core-conecepts&quot;&gt;Core Conecepts&lt;/span&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Stategic Design&lt;/li&gt;
-&lt;li
       
     
     </summary>
@@ -159,6 +206,30 @@
   </entry>
   
   <entry>
+    <title>Achitecture Foundations</title>
+    <link href="http://yoursite.com/2019/04/20/Architecture%20Foundations/"/>
+    <id>http://yoursite.com/2019/04/20/Architecture Foundations/</id>
+    <published>2019-04-19T16:00:00.000Z</published>
+    <updated>2019-05-22T23:22:38.062Z</updated>
+    
+    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#software-achitecture-introduction">Software Achitecture Introduction</a></li><li><a href="#traditional-architect">Traditional Architect</a></li><li><a href="#agile-architecutre">Agile Architecutre</a></li><li><a href="#thinking-architectually">Thinking Architectually</a></li><li><a href="#architectural-patterns">Architectural Patterns</a></li><li><a href="#architectural-management">Architectural Management</a></li></ul><!-- tocstop --><h3><span id="software-achitecture-introduction">Software Achitecture Introduction</span></h3><ul><li>Choose the component and connect them together</li><li>All effective architecture reflect the needs of your customers and of the domain or business</li><li>Start with the customers and works down towards the implementation</li><li>Work extensively as programmers in order to build that aesthetic sense</li></ul><h3><span id="traditional-architect">Traditional Architect</span></h3><ul><li>The cerntralized architect does all the thinking, everybody else does what whey’re told</li><li>Big and complex designs<ul><li>Code is written after design</li><li>Doesn’t capture the user’s true needs</li><li>Doesn’t allow for learning</li></ul></li><li>Lack of flexibility<ul><li>Painful bureaucratic processes</li><li>Not following the design</li><li>Random improvisation</li></ul></li><li>Slow developemnt process<ul><li>Centralized architect-making decisions</li><li>Wasted time and money</li></ul></li><li>Use code and draw together to decribe design</li></ul><h3><span id="agile-architecutre">Agile Architecutre</span></h3><ul><li>Inspect and Adapt Loop<ul><li>Build/refine -&gt; Deploy -&gt; Review -&gt; Talk to users</li><li>Run experiment if you</li><li>Learn and design incrementally as the system involves</li></ul></li><li>Agile<ul><li>Everybody is an architect</li><li>Nobody asks permission to expriement</li></ul></li><li>Agile Architect - Servant Leader<ul><li>Teaching</li><li>Coaching</li><li>Coordinating</li></ul></li><li>Main design reponsibility: assures coherence across the system<ul><li>Reviews work</li><li>Makes suggestions</li><li>Helps refine processes</li></ul></li><li>Architects<ul><li>Keep big picture in their head</li><li>Say if we do this rather than that, we will doing better than xxx team</li><li>Helps team to fix problems</li><li>Nudges the structure of the architecture in the direction that their experiences tells them will work best</li><li>Help the team to make good decisions</li></ul></li><li>Good Architecture<ul><li>Simplicity</li><li>Maintainability</li><li>Testability</li></ul></li><li>Architecture &amp;&amp; Design Patterns<ul><li>Design patterns provide sets of optimal solutions</li><li>Architecture is the interaction of design patterns</li><li>The more systems you work with or on, the more you understand the trade-offs and interconnections</li></ul></li><li>Improve Technical Understanding<ul><li>Read Code</li><li>Study open-source projects</li><li>Education &amp;&amp; Reading</li><li>Go to vendor-focused conferences</li><li>Speak to other architects</li><li>Learn about technologies used in real systems</li><li>Write code</li><li>Create meetup</li><li>Work collabratively to solve problems</li><li>Design systems - Learn by practicing</li><li>Writing and Sharing</li></ul></li><li>Skilled architect must be skilled programmer</li></ul><h3><span id="thinking-architectually">Thinking Architectually</span></h3><ul><li>The architecutre of your software and the communication of your organizaiton has to match - Conway’s law</li><li>N-tier softeware is out of date</li><li>We use microservice</li><li>Incremental Design around user story</li><li>DDD</li><li>Bounded Context (Domain) - Class, Module, Package, Sub System</li></ul><h3><span id="architectural-patterns">Architectural Patterns</span></h3><ul><li>Monolith<br><img src="/images/monolith-architecture-time-consuming.png" alt="monolith"></li><li>Microkernel</li><li>Message-based architectures<ul><li>RMx</li><li>Message Bus</li><li>Pub/Sub Model (kafka’s architecture)</li></ul></li><li>Microservice<ul><li>Book Reference (<a href="https://learning.oreilly.com/library/view/building-microservices/9781491950340/" target="_blank" rel="noopener">Building Microservices</a>)</li></ul></li><li>Reactive Pattern</li></ul><h3><span id="architectural-management">Architectural Management</span></h3><ul><li>Learn from Alibaba, Facebook, Google<ul><li>Team technical sharing culture</li><li><strong>Cooperate and help first with redmond team</strong></li><li>Have v-team in mind</li><li>Great goal with great people<ul><li>Clear and great project first</li><li>Attract me to do this project</li></ul></li><li>Leadership for everyone<ul><li>Create Clarity</li><li>Generate Energy</li><li>Deliver Success</li></ul></li></ul></li></ul><p>Event Storming</p><p>Agent Tech - Messaging - - Caching - - Logging - - Monitoring -</p><p>Architects Do Research</p><ul><li>Programmers - Vendors - Conferences - Operations</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#software-achitecture-introduction&quot;&gt;Software Achitecture Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#traditional-arch
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Agile Management</title>
     <link href="http://yoursite.com/2019/04/20/Agile%20Management/"/>
     <id>http://yoursite.com/2019/04/20/Agile Management/</id>
@@ -176,30 +247,6 @@
 &lt;li&gt;&lt;a href=&quot;#agile-fundamentals&quot;&gt;Agile Fundamentals&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#a
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Achitecture Foundations</title>
-    <link href="http://yoursite.com/2019/04/20/Architecture%20Foundations/"/>
-    <id>http://yoursite.com/2019/04/20/Architecture Foundations/</id>
-    <published>2019-04-19T16:00:00.000Z</published>
-    <updated>2019-05-22T23:22:38.062Z</updated>
-    
-    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#software-achitecture-introduction">Software Achitecture Introduction</a></li><li><a href="#traditional-architect">Traditional Architect</a></li><li><a href="#agile-architecutre">Agile Architecutre</a></li><li><a href="#thinking-architectually">Thinking Architectually</a></li><li><a href="#architectural-patterns">Architectural Patterns</a></li><li><a href="#architectural-management">Architectural Management</a></li></ul><!-- tocstop --><h3><span id="software-achitecture-introduction">Software Achitecture Introduction</span></h3><ul><li>Choose the component and connect them together</li><li>All effective architecture reflect the needs of your customers and of the domain or business</li><li>Start with the customers and works down towards the implementation</li><li>Work extensively as programmers in order to build that aesthetic sense</li></ul><h3><span id="traditional-architect">Traditional Architect</span></h3><ul><li>The cerntralized architect does all the thinking, everybody else does what whey’re told</li><li>Big and complex designs<ul><li>Code is written after design</li><li>Doesn’t capture the user’s true needs</li><li>Doesn’t allow for learning</li></ul></li><li>Lack of flexibility<ul><li>Painful bureaucratic processes</li><li>Not following the design</li><li>Random improvisation</li></ul></li><li>Slow developemnt process<ul><li>Centralized architect-making decisions</li><li>Wasted time and money</li></ul></li><li>Use code and draw together to decribe design</li></ul><h3><span id="agile-architecutre">Agile Architecutre</span></h3><ul><li>Inspect and Adapt Loop<ul><li>Build/refine -&gt; Deploy -&gt; Review -&gt; Talk to users</li><li>Run experiment if you</li><li>Learn and design incrementally as the system involves</li></ul></li><li>Agile<ul><li>Everybody is an architect</li><li>Nobody asks permission to expriement</li></ul></li><li>Agile Architect - Servant Leader<ul><li>Teaching</li><li>Coaching</li><li>Coordinating</li></ul></li><li>Main design reponsibility: assures coherence across the system<ul><li>Reviews work</li><li>Makes suggestions</li><li>Helps refine processes</li></ul></li><li>Architects<ul><li>Keep big picture in their head</li><li>Say if we do this rather than that, we will doing better than xxx team</li><li>Helps team to fix problems</li><li>Nudges the structure of the architecture in the direction that their experiences tells them will work best</li><li>Help the team to make good decisions</li></ul></li><li>Good Architecture<ul><li>Simplicity</li><li>Maintainability</li><li>Testability</li></ul></li><li>Architecture &amp;&amp; Design Patterns<ul><li>Design patterns provide sets of optimal solutions</li><li>Architecture is the interaction of design patterns</li><li>The more systems you work with or on, the more you understand the trade-offs and interconnections</li></ul></li><li>Improve Technical Understanding<ul><li>Read Code</li><li>Study open-source projects</li><li>Education &amp;&amp; Reading</li><li>Go to vendor-focused conferences</li><li>Speak to other architects</li><li>Learn about technologies used in real systems</li><li>Write code</li><li>Create meetup</li><li>Work collabratively to solve problems</li><li>Design systems - Learn by practicing</li><li>Writing and Sharing</li></ul></li><li>Skilled architect must be skilled programmer</li></ul><h3><span id="thinking-architectually">Thinking Architectually</span></h3><ul><li>The architecutre of your software and the communication of your organizaiton has to match - Conway’s law</li><li>N-tier softeware is out of date</li><li>We use microservice</li><li>Incremental Design around user story</li><li>DDD</li><li>Bounded Context (Domain) - Class, Module, Package, Sub System</li></ul><h3><span id="architectural-patterns">Architectural Patterns</span></h3><ul><li>Monolith<br><img src="/images/monolith-architecture-time-consuming.png" alt="monolith"></li><li>Microkernel</li><li>Message-based architectures<ul><li>RMx</li><li>Message Bus</li><li>Pub/Sub Model (kafka’s architecture)</li></ul></li><li>Microservice<ul><li>Book Reference (<a href="https://learning.oreilly.com/library/view/building-microservices/9781491950340/" target="_blank" rel="noopener">Building Microservices</a>)</li></ul></li><li>Reactive Pattern</li></ul><h3><span id="architectural-management">Architectural Management</span></h3><ul><li>Learn from Alibaba, Facebook, Google<ul><li>Team technical sharing culture</li><li><strong>Cooperate and help first with redmond team</strong></li><li>Have v-team in mind</li><li>Great goal with great people<ul><li>Clear and great project first</li><li>Attract me to do this project</li></ul></li><li>Leadership for everyone<ul><li>Create Clarity</li><li>Generate Energy</li><li>Deliver Success</li></ul></li></ul></li></ul><p>Event Storming</p><p>Agent Tech - Messaging - - Caching - - Logging - - Monitoring -</p><p>Architects Do Research</p><ul><li>Programmers - Vendors - Conferences - Operations</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- toc --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#software-achitecture-introduction&quot;&gt;Software Achitecture Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#traditional-arch
       
     
     </summary>
