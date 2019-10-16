@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/10/16/Data%20Theory/</loc>
+    
+    <lastmod>2019-10-16T03:54:57.251Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/10/15/Wealth%20Thinking/</loc>
     
     <lastmod>2019-10-16T03:04:42.700Z</lastmod>
@@ -89,13 +96,6 @@
     <loc>http://yoursite.com/2018/12/06/About%20Me/</loc>
     
     <lastmod>2019-05-19T07:44:03.513Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/04/27/Intelligence%20System%20Design/</loc>
-    
-    <lastmod>2019-04-27T15:12:14.174Z</lastmod>
     
   </url>
   

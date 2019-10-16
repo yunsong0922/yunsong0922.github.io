@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-16T03:04:42.700Z</updated>
+  <updated>2019-10-16T03:54:57.251Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Data Theory - Mathematics, Statistics and Learning</title>
+    <link href="http://yoursite.com/2019/10/16/Data%20Theory/"/>
+    <id>http://yoursite.com/2019/10/16/Data Theory/</id>
+    <published>2019-10-15T16:00:00.000Z</published>
+    <updated>2019-10-16T03:54:57.251Z</updated>
+    
+    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#thinking">Thinking</a></li><li><a href="#references">References</a></li><li><a href="#future-plan">Future Plan</a></li></ul><!-- tocstop --><p>In this artical, I just want to list some critical points that helps me when I learn data related tooling and theory, such as Mathematics, Statistics and Learning theory</p><h3><span id="thinking">Thinking</span></h3><ul><li>The world is just data and theory, if we want to understand the world, what we need is data and underlying theory.<ul><li><code>Why do we need to understand data</code>?<ul><li>Data understanding is the previous step to <code>do prediction, make decision and take action</code>.</li></ul></li><li><code>How to understand structured data</code>?<ul><li><code>Statistics is most important mathematical tool and view to learn data</code>. Other technics related to data understanding includes Data Mining, Data Analysis, Machine Learning and specific business logic.</li><li>Other modeling theory also helps a lot, includes <code>Mathematics, Finance, Economics, Psychology, Physics, Sociology, Biology, Literature, Computer Science etc</code>….</li><li><code>Good Mathematics is really important</code> to learn and modeling other areas</li></ul></li><li><code>How about unstructured data</code>?<ul><li>Most book and information are unstructured data, we need extract the information we need according to the learning goal and use structured data analysis tool.</li><li>Research better learning theory to learn unstructured data directly.</li></ul></li></ul></li></ul><h3><span id="references">References</span></h3><ul><li>概率论与数理统计（英文第四版）</li><li>Deep Learning</li><li>An Introduction To Statistical Learning</li><li>Deep learning courses in Edx (MS Library)</li></ul><h3><span id="future-plan">Future Plan</span></h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#thinking&quot;&gt;Thinking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#future-plan&quot;&gt;Future 
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wealth Thinking</title>
@@ -182,22 +207,23 @@
   </entry>
   
   <entry>
-    <title>Intelligence System Design</title>
-    <link href="http://yoursite.com/2019/04/27/Intelligence%20System%20Design/"/>
-    <id>http://yoursite.com/2019/04/27/Intelligence System Design/</id>
-    <published>2019-04-26T16:00:00.000Z</published>
-    <updated>2019-04-27T15:12:14.174Z</updated>
+    <title>Agile Management</title>
+    <link href="http://yoursite.com/2019/04/20/Agile%20Management/"/>
+    <id>http://yoursite.com/2019/04/20/Agile Management/</id>
+    <published>2019-04-19T16:00:00.000Z</published>
+    <updated>2019-06-15T01:44:11.821Z</updated>
     
-    <content type="html"><![CDATA[<h4><span id="reference">Reference</span></h4><ul><li>An Introduction to Retrieval-based Dialogue Systems</li></ul>]]></content>
+    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#agile-fundamentals">Agile Fundamentals</a><ul><li><a href="#conclusion">Conclusion</a></li><li><a href="#aigle-to-the-rescue">Aigle to the Rescue</a></li><li><a href="#agile-menifesto">Agile Menifesto</a></li><li><a href="#principles-behind-the-agile-manifesto">Principles behind the Agile Manifesto</a></li></ul></li><li><a href="#scrum-the-developer-perspective">Scrum: The Developer Perspective</a></li><li><a href="#agile-software-engineering-techniques">Agile Software Engineering Techniques</a></li><li><a href="#time-estimation">Time Estimation</a><ul><li><a href="#reference">Reference</a></li></ul></li></ul><!-- tocstop --><h2><span id="agile-fundamentals">Agile Fundamentals</span></h2><h3><span id="conclusion">Conclusion</span></h3><ul><li>With Agile in mind that change is inevitable and we need to make full use of developer’s creativity and knowledge to build a better software. <code>We do high level planning and execute with agile in mind in every level for everyone</code></li></ul><h3><span id="aigle-to-the-rescue">Aigle to the Rescue</span></h3><ul><li>Change is inevitable</li><li>Software development is inherently risky</li><li>Successful software projects are dependent on creativity and knowledge of the development team</li><li>Detailed processes and predictive planning from top-down management can be impediment</li></ul><h3><span id="agile-menifesto">Agile Menifesto</span></h3><ul><li><a href="https://agilemanifesto.org" target="_blank" rel="noopener">Agile Menifesto Link</a></li><li>Individuals and interactions over processes and tools</li><li>Working software over comprehensive documentation</li><li>Customer collaboration over contract negotiation</li><li>Responding to change over following a plan</li></ul><h3><span id="principles-behind-the-agile-manifesto">Principles behind the Agile Manifesto</span></h3><ul><li><p><a href="https://agilemanifesto.org/" target="_blank" rel="noopener">Principles behind the Agile Manifesto Link</a></p></li><li><p>Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</p></li><li><p>Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.</p></li><li><p>Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.</p></li><li><p>Business people and developers must work together daily throughout the project.</p></li><li><p>Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.</p></li><li><p>The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.</p></li><li><p>Working software is the primary measure of progress.</p></li><li><p>Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.</p></li><li><p>Continuous attention to technical excellence and good design enhances agility.</p></li><li><p>Simplicity–the art of maximizing the amount of work not done–is essential.</p></li><li><p>The best architectures, requirements, and designs emerge from self-organizing teams.</p></li><li><p>At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.</p></li></ul><h2><span id="scrum-the-developer-perspective">Scrum: The Developer Perspective</span></h2><ul><li><a href="https://www.scrumguides.org/" target="_blank" rel="noopener">Scrum Guide Link</a>. Scrum is a framework for developing and sustaining complex products.</li><li>More abstract in nature</li></ul><h2><span id="agile-software-engineering-techniques">Agile Software Engineering Techniques</span></h2><p>Compare with Scrum, XP is more prescriptive and implementation centric.</p><ul><li>Exetreme Programming (XP)</li><li>Pair programming - One of the key practices of Extreme Programming</li><li>TDD, BDD,</li><li>User Story:<ul><li>One Side: As a XXX, I should be able to XXX, so I know how I am being billed.</li><li>Another Side: Acceptance Criteria</li></ul></li><li>Kanban - A visual process management tool</li><li>Agile Estimation:<ul><li>Fibonacci Scale: 0 1 2 3 5 8 13</li><li>Exponitial Scale: 0 1 2 4 8 16</li><li>Planning Poker: Esimate on consensus</li></ul></li></ul><h2><span id="time-estimation">Time Estimation</span></h2><p>Different work item types have different estimation strategies, the work item pattern could be</p><ul><li>Research<ul><li>[3X][hard to estimate] <strong>Research to clearify the context</strong>, the more details, the accurate, <strong>time of this part could be unlimited, the more the better</strong>, 3X</li></ul></li><li>Learning<ul><li>[1.5X][easy to estimate] <strong>New technology ramp up</strong>, basic new technology is surely needed before start to work, with well prepared training materails, <strong>the time is fixed and easy to control</strong></li></ul></li><li>Design<ul><li>[2.5X][mediate to esitmate] <strong>System design</strong>, the more times we iterate in this stage, the better</li></ul></li><li>Coding<ul><li>[2X][mediate to estimate] <strong>Writing code based on previous stage</strong>, during this time, need to prepare<ul><li>Dependency project management</li><li>Clear</li></ul></li></ul></li><li>Testing</li></ul><h3><span id="reference">Reference</span></h3><ul><li><a href="https://www.linkedin.com/learning/agile-software-development/the-agile-approach?u=3322" target="_blank" rel="noopener">Agile Software Development</a></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h4&gt;&lt;span id=&quot;reference&quot;&gt;Reference&lt;/span&gt;&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;An Introduction to Retrieval-based Dialogue Systems&lt;/li&gt;
-&lt;/ul&gt;
-
+        &lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#agile-fundamentals&quot;&gt;Agile Fundamentals&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#a
       
     
     </summary>
@@ -222,31 +248,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#software-achitecture-introduction&quot;&gt;Software Achitecture Introduction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#traditional-arch
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Agile Management</title>
-    <link href="http://yoursite.com/2019/04/20/Agile%20Management/"/>
-    <id>http://yoursite.com/2019/04/20/Agile Management/</id>
-    <published>2019-04-19T16:00:00.000Z</published>
-    <updated>2019-06-15T01:44:11.821Z</updated>
-    
-    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#agile-fundamentals">Agile Fundamentals</a><ul><li><a href="#conclusion">Conclusion</a></li><li><a href="#aigle-to-the-rescue">Aigle to the Rescue</a></li><li><a href="#agile-menifesto">Agile Menifesto</a></li><li><a href="#principles-behind-the-agile-manifesto">Principles behind the Agile Manifesto</a></li></ul></li><li><a href="#scrum-the-developer-perspective">Scrum: The Developer Perspective</a></li><li><a href="#agile-software-engineering-techniques">Agile Software Engineering Techniques</a></li><li><a href="#time-estimation">Time Estimation</a><ul><li><a href="#reference">Reference</a></li></ul></li></ul><!-- tocstop --><h2><span id="agile-fundamentals">Agile Fundamentals</span></h2><h3><span id="conclusion">Conclusion</span></h3><ul><li>With Agile in mind that change is inevitable and we need to make full use of developer’s creativity and knowledge to build a better software. <code>We do high level planning and execute with agile in mind in every level for everyone</code></li></ul><h3><span id="aigle-to-the-rescue">Aigle to the Rescue</span></h3><ul><li>Change is inevitable</li><li>Software development is inherently risky</li><li>Successful software projects are dependent on creativity and knowledge of the development team</li><li>Detailed processes and predictive planning from top-down management can be impediment</li></ul><h3><span id="agile-menifesto">Agile Menifesto</span></h3><ul><li><a href="https://agilemanifesto.org" target="_blank" rel="noopener">Agile Menifesto Link</a></li><li>Individuals and interactions over processes and tools</li><li>Working software over comprehensive documentation</li><li>Customer collaboration over contract negotiation</li><li>Responding to change over following a plan</li></ul><h3><span id="principles-behind-the-agile-manifesto">Principles behind the Agile Manifesto</span></h3><ul><li><p><a href="https://agilemanifesto.org/" target="_blank" rel="noopener">Principles behind the Agile Manifesto Link</a></p></li><li><p>Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</p></li><li><p>Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.</p></li><li><p>Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.</p></li><li><p>Business people and developers must work together daily throughout the project.</p></li><li><p>Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.</p></li><li><p>The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.</p></li><li><p>Working software is the primary measure of progress.</p></li><li><p>Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.</p></li><li><p>Continuous attention to technical excellence and good design enhances agility.</p></li><li><p>Simplicity–the art of maximizing the amount of work not done–is essential.</p></li><li><p>The best architectures, requirements, and designs emerge from self-organizing teams.</p></li><li><p>At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.</p></li></ul><h2><span id="scrum-the-developer-perspective">Scrum: The Developer Perspective</span></h2><ul><li><a href="https://www.scrumguides.org/" target="_blank" rel="noopener">Scrum Guide Link</a>. Scrum is a framework for developing and sustaining complex products.</li><li>More abstract in nature</li></ul><h2><span id="agile-software-engineering-techniques">Agile Software Engineering Techniques</span></h2><p>Compare with Scrum, XP is more prescriptive and implementation centric.</p><ul><li>Exetreme Programming (XP)</li><li>Pair programming - One of the key practices of Extreme Programming</li><li>TDD, BDD,</li><li>User Story:<ul><li>One Side: As a XXX, I should be able to XXX, so I know how I am being billed.</li><li>Another Side: Acceptance Criteria</li></ul></li><li>Kanban - A visual process management tool</li><li>Agile Estimation:<ul><li>Fibonacci Scale: 0 1 2 3 5 8 13</li><li>Exponitial Scale: 0 1 2 4 8 16</li><li>Planning Poker: Esimate on consensus</li></ul></li></ul><h2><span id="time-estimation">Time Estimation</span></h2><p>Different work item types have different estimation strategies, the work item pattern could be</p><ul><li>Research<ul><li>[3X][hard to estimate] <strong>Research to clearify the context</strong>, the more details, the accurate, <strong>time of this part could be unlimited, the more the better</strong>, 3X</li></ul></li><li>Learning<ul><li>[1.5X][easy to estimate] <strong>New technology ramp up</strong>, basic new technology is surely needed before start to work, with well prepared training materails, <strong>the time is fixed and easy to control</strong></li></ul></li><li>Design<ul><li>[2.5X][mediate to esitmate] <strong>System design</strong>, the more times we iterate in this stage, the better</li></ul></li><li>Coding<ul><li>[2X][mediate to estimate] <strong>Writing code based on previous stage</strong>, during this time, need to prepare<ul><li>Dependency project management</li><li>Clear</li></ul></li></ul></li><li>Testing</li></ul><h3><span id="reference">Reference</span></h3><ul><li><a href="https://www.linkedin.com/learning/agile-software-development/the-agile-approach?u=3322" target="_blank" rel="noopener">Agile Software Development</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- toc --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#agile-fundamentals&quot;&gt;Agile Fundamentals&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#a
       
     
     </summary>
