@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-15T01:17:23.371Z</updated>
+  <updated>2019-09-13T08:35:47.694Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Over-Communicate Strategy</title>
+    <link href="http://yoursite.com/2019/07/03/Over-Communicate%20Strategy/"/>
+    <id>http://yoursite.com/2019/07/03/Over-Communicate Strategy/</id>
+    <published>2019-07-02T16:00:00.000Z</published>
+    <updated>2019-09-13T08:35:47.694Z</updated>
+    
+    <content type="html"><![CDATA[<h3><span id="over-communicate-core-idea">Over communicate core idea</span></h3><p>Core strategy would be</p><ol><li>Over communicate first</li><li>Ajust communicate degree</li></ol><p>Find the balance communication point when communicate using emails or teams</p><ul><li>right people<ul><li>Add different bosses for awareness and then ask them for feedback</li></ul></li><li>right content</li><li>right time<ul><li>Timing is important</li><li>If its too early, that’s OK, more like over communicate</li><li>If its too late, it’s more like escalation</li></ul></li><li>right attitude<ul><li>Don’t be afraid to be blamed for over communicate with boss!!</li><li>Don’t be shy to show off to boss!!</li><li>May be they would like to loop in</li><li>Different bosses has different preferences for being looped in.</li></ul></li><li>feedback loop<ul><li>Ask them for feedback about over communicate and ajust the volumn to balance</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3&gt;&lt;span id=&quot;over-communicate-core-idea&quot;&gt;Over communicate core idea&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;Core strategy would be&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Over communicate firs
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Great Internet Resources</title>
+    <link href="http://yoursite.com/2019/06/15/Great%20Resources/"/>
+    <id>http://yoursite.com/2019/06/15/Great Resources/</id>
+    <published>2019-06-14T16:00:00.000Z</published>
+    <updated>2019-06-22T13:53:52.223Z</updated>
+    
+    <content type="html"><![CDATA[<p>Put all the great internet resources here for future reference</p><h3><span id="architecture">Architecture</span></h3><ul><li><p>Data</p><ul><li><a href="https://www.youtube.com/watch?v=xAiuLJtCZOg" target="_blank" rel="noopener">NewSQL 大神黄东旭：从 0 到 1，如何设计一个分布式数据库</a></li></ul></li><li><p>Web</p><ul><li><a href="https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a" target="_blank" rel="noopener">An Overview Of Javascript Testing</a></li></ul></li><li><p>Engineering</p><ul><li><a href="https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/ch04.html#ch04" target="_blank" rel="noopener">Domain Driven Design Distilled</a></li><li><a href="https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/pref03lev2sec15.html" target="_blank" rel="noopener">Implement Domain Driven Design</a></li><li><a href="https://www.linkedin.com/learning/devops-foundations/what-is-devops?u=3322" target="_blank" rel="noopener">DevOps Foundations</a></li><li><a href="https://www.linkedin.com/learning/agile-software-development/the-agile-approach?u=3322" target="_blank" rel="noopener">Agile Software Development</a></li></ul></li><li><p>Recommendation &amp;&amp; Ads &amp;&amp; Search &amp;&amp; Audience</p><ul><li><a href="https://zhuanlan.zhihu.com/p/51015148" target="_blank" rel="noopener">推荐&amp;搜索&amp;广告&amp;用户画像&amp;深度学习整理</a></li><li><a href="https://github.com/jyfeather/ad-reading" target="_blank" rel="noopener">computational advertising reading list</a></li><li><a href="https://github.com/wzhe06/Reco-papers" target="_blank" rel="noopener">推荐系统论文、学习资料、业界分享</a></li><li><a href="https://github.com/wzhe06/Ad-papers" target="_blank" rel="noopener">计算广告论文、学习资料、业界分享</a></li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Put all the great internet resources here for future reference&lt;/p&gt;
+&lt;h3&gt;&lt;span id=&quot;architecture&quot;&gt;Architecture&lt;/span&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Data&lt;/
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>PM Growth Foundations</title>
@@ -31,30 +77,6 @@
       
         &lt;p&gt;&lt;img src=&quot;/images/xumin.jpg&quot; alt=&quot;flower&quot;&gt;&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Domain Driven Design</title>
-    <link href="http://yoursite.com/2019/05/19/Domain%20Driven%20Design/"/>
-    <id>http://yoursite.com/2019/05/19/Domain Driven Design/</id>
-    <published>2019-05-18T16:00:00.000Z</published>
-    <updated>2019-06-15T01:21:49.038Z</updated>
-    
-    <content type="html"><![CDATA[<p>Bounded Context, Domain, Event Storming etc</p><h2><span id="core-conecepts">Core Conecepts</span></h2><ul><li>Stategic Design</li><li>Bounded Context</li><li>Ubiquitous Language</li><li>Domain Expert</li><li><p>Subdomain</p><ul><li>Core Subdomain</li><li>Supporting Subdomain</li><li>Generic Subdomain</li></ul></li><li><p>Context Mapping</p><ul><li>Partnership</li><li>Shared Kernel</li><li>Customer-Supplier</li><li>Conformist</li><li>Anticorruption Layer</li><li>Open Host Service</li><li>Published Language</li></ul></li><li><p>Aggregate</p></li><li><a href="https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/ch07.html#ch07" target="_blank" rel="noopener">Event Storming</a></li><li>Domain Event - It’s actually a result driven. ‘Product Created’</li><li>User Story</li></ul><h2><span id="summary">Summary</span></h2><p>We begin with the all-important <code>strategic design</code>. You really cannot apply tactical design in an effective way unless you begin with strategic design. Strategic design is used like broad brushstrokes prior to getting into the details of implementation. It highlights what is strategically important to your business, how to divide up the work by importance, and how to best integrate as needed.</p><p>First you will learn how to segregate your domain models using the strategic design pattern called <code>Bounded Contexts</code>. Hand in glove, you will see how to develop a <code>Ubiquitous Language</code> as your domain model within an explicitly Bounded Context.</p><p>You will learn about the importance of engaging with not only developers but also <code>Domain Experts</code> as you develop your model’s Ubiquitous Language. You will see how a team of both software developers and Domain Experts collaborate. This is a vital combination of smart and motivated people who are needed for DDD to produce the best results. The language you develop together through collaboration will become ubiquitous, pervasive, throughout the team’s spoken communication and software model.</p><p>As you advance further into strategic design, you will learn about <code>Subdomains</code> and how these can help you deal with the unbounded complexity of legacy systems, and how to improve your results on greenfield projects. You will also see how to integrate multiple Bounded Contexts using a technique called <code>Context Mapping</code>. Context Maps define both team relationships and technical mechanisms that exist between two integrating <code>Bounded Contexts</code>.</p><p>After I have given you a sound foundation with strategic design, you will discover DDD’s most prominent tactical design tools. <code>Tactical design</code> is like using a thin brush to paint the fine details of your domain model. One of the more important tools is used to <code>aggregate entities and value objects</code> together into a right-sized cluster. It’s the <code>Aggregate pattern</code>.<br>DDD is all about modeling your domain in the most explicit way possible. <code>Using Domain Events will help you both to model explicitly and to share what has occurred within your model with the systems that need to know about it</code>. The interested parties might be your own local Bounded Context and other remote Bounded Contexts.</p><h2><span id="reference">Reference</span></h2><ul><li><a href="https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/ch04.html#ch04" target="_blank" rel="noopener">Domain Driven Design Distilled</a></li><li><a href="https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/pref03lev2sec15.html" target="_blank" rel="noopener">Implement Domain Driven Design</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Bounded Context, Domain, Event Storming etc&lt;/p&gt;
-&lt;h2&gt;&lt;span id=&quot;core-conecepts&quot;&gt;Core Conecepts&lt;/span&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Stategic Design&lt;/li&gt;
-&lt;li
       
     
     </summary>
@@ -89,6 +111,30 @@
   </entry>
   
   <entry>
+    <title>Domain Driven Design</title>
+    <link href="http://yoursite.com/2019/05/19/Domain%20Driven%20Design/"/>
+    <id>http://yoursite.com/2019/05/19/Domain Driven Design/</id>
+    <published>2019-05-18T16:00:00.000Z</published>
+    <updated>2019-06-15T01:21:49.038Z</updated>
+    
+    <content type="html"><![CDATA[<p>Bounded Context, Domain, Event Storming etc</p><h2><span id="core-conecepts">Core Conecepts</span></h2><ul><li>Stategic Design</li><li>Bounded Context</li><li>Ubiquitous Language</li><li>Domain Expert</li><li><p>Subdomain</p><ul><li>Core Subdomain</li><li>Supporting Subdomain</li><li>Generic Subdomain</li></ul></li><li><p>Context Mapping</p><ul><li>Partnership</li><li>Shared Kernel</li><li>Customer-Supplier</li><li>Conformist</li><li>Anticorruption Layer</li><li>Open Host Service</li><li>Published Language</li></ul></li><li><p>Aggregate</p></li><li><a href="https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/ch07.html#ch07" target="_blank" rel="noopener">Event Storming</a></li><li>Domain Event - It’s actually a result driven. ‘Product Created’</li><li>User Story</li></ul><h2><span id="summary">Summary</span></h2><p>We begin with the all-important <code>strategic design</code>. You really cannot apply tactical design in an effective way unless you begin with strategic design. Strategic design is used like broad brushstrokes prior to getting into the details of implementation. It highlights what is strategically important to your business, how to divide up the work by importance, and how to best integrate as needed.</p><p>First you will learn how to segregate your domain models using the strategic design pattern called <code>Bounded Contexts</code>. Hand in glove, you will see how to develop a <code>Ubiquitous Language</code> as your domain model within an explicitly Bounded Context.</p><p>You will learn about the importance of engaging with not only developers but also <code>Domain Experts</code> as you develop your model’s Ubiquitous Language. You will see how a team of both software developers and Domain Experts collaborate. This is a vital combination of smart and motivated people who are needed for DDD to produce the best results. The language you develop together through collaboration will become ubiquitous, pervasive, throughout the team’s spoken communication and software model.</p><p>As you advance further into strategic design, you will learn about <code>Subdomains</code> and how these can help you deal with the unbounded complexity of legacy systems, and how to improve your results on greenfield projects. You will also see how to integrate multiple Bounded Contexts using a technique called <code>Context Mapping</code>. Context Maps define both team relationships and technical mechanisms that exist between two integrating <code>Bounded Contexts</code>.</p><p>After I have given you a sound foundation with strategic design, you will discover DDD’s most prominent tactical design tools. <code>Tactical design</code> is like using a thin brush to paint the fine details of your domain model. One of the more important tools is used to <code>aggregate entities and value objects</code> together into a right-sized cluster. It’s the <code>Aggregate pattern</code>.<br>DDD is all about modeling your domain in the most explicit way possible. <code>Using Domain Events will help you both to model explicitly and to share what has occurred within your model with the systems that need to know about it</code>. The interested parties might be your own local Bounded Context and other remote Bounded Contexts.</p><h2><span id="reference">Reference</span></h2><ul><li><a href="https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/ch04.html#ch04" target="_blank" rel="noopener">Domain Driven Design Distilled</a></li><li><a href="https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/pref03lev2sec15.html" target="_blank" rel="noopener">Implement Domain Driven Design</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Bounded Context, Domain, Event Storming etc&lt;/p&gt;
+&lt;h2&gt;&lt;span id=&quot;core-conecepts&quot;&gt;Core Conecepts&lt;/span&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Stategic Design&lt;/li&gt;
+&lt;li
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Intelligence System Design</title>
     <link href="http://yoursite.com/2019/04/27/Intelligence%20System%20Design/"/>
     <id>http://yoursite.com/2019/04/27/Intelligence System Design/</id>
@@ -113,11 +159,60 @@
   </entry>
   
   <entry>
+    <title>Agile Management</title>
+    <link href="http://yoursite.com/2019/04/20/Agile%20Management/"/>
+    <id>http://yoursite.com/2019/04/20/Agile Management/</id>
+    <published>2019-04-19T16:00:00.000Z</published>
+    <updated>2019-06-15T01:44:11.821Z</updated>
+    
+    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#agile-fundamentals">Agile Fundamentals</a><ul><li><a href="#conclusion">Conclusion</a></li><li><a href="#aigle-to-the-rescue">Aigle to the Rescue</a></li><li><a href="#agile-menifesto">Agile Menifesto</a></li><li><a href="#principles-behind-the-agile-manifesto">Principles behind the Agile Manifesto</a></li></ul></li><li><a href="#scrum-the-developer-perspective">Scrum: The Developer Perspective</a></li><li><a href="#agile-software-engineering-techniques">Agile Software Engineering Techniques</a></li><li><a href="#time-estimation">Time Estimation</a><ul><li><a href="#reference">Reference</a></li></ul></li></ul><!-- tocstop --><h2><span id="agile-fundamentals">Agile Fundamentals</span></h2><h3><span id="conclusion">Conclusion</span></h3><ul><li>With Agile in mind that change is inevitable and we need to make full use of developer’s creativity and knowledge to build a better software. <code>We do high level planning and execute with agile in mind in every level for everyone</code></li></ul><h3><span id="aigle-to-the-rescue">Aigle to the Rescue</span></h3><ul><li>Change is inevitable</li><li>Software development is inherently risky</li><li>Successful software projects are dependent on creativity and knowledge of the development team</li><li>Detailed processes and predictive planning from top-down management can be impediment</li></ul><h3><span id="agile-menifesto">Agile Menifesto</span></h3><ul><li><a href="https://agilemanifesto.org" target="_blank" rel="noopener">Agile Menifesto Link</a></li><li>Individuals and interactions over processes and tools</li><li>Working software over comprehensive documentation</li><li>Customer collaboration over contract negotiation</li><li>Responding to change over following a plan</li></ul><h3><span id="principles-behind-the-agile-manifesto">Principles behind the Agile Manifesto</span></h3><ul><li><p><a href="https://agilemanifesto.org/" target="_blank" rel="noopener">Principles behind the Agile Manifesto Link</a></p></li><li><p>Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</p></li><li><p>Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.</p></li><li><p>Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.</p></li><li><p>Business people and developers must work together daily throughout the project.</p></li><li><p>Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.</p></li><li><p>The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.</p></li><li><p>Working software is the primary measure of progress.</p></li><li><p>Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.</p></li><li><p>Continuous attention to technical excellence and good design enhances agility.</p></li><li><p>Simplicity–the art of maximizing the amount of work not done–is essential.</p></li><li><p>The best architectures, requirements, and designs emerge from self-organizing teams.</p></li><li><p>At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.</p></li></ul><h2><span id="scrum-the-developer-perspective">Scrum: The Developer Perspective</span></h2><ul><li><a href="https://www.scrumguides.org/" target="_blank" rel="noopener">Scrum Guide Link</a>. Scrum is a framework for developing and sustaining complex products.</li><li>More abstract in nature</li></ul><h2><span id="agile-software-engineering-techniques">Agile Software Engineering Techniques</span></h2><p>Compare with Scrum, XP is more prescriptive and implementation centric.</p><ul><li>Exetreme Programming (XP)</li><li>Pair programming - One of the key practices of Extreme Programming</li><li>TDD, BDD,</li><li>User Story:<ul><li>One Side: As a XXX, I should be able to XXX, so I know how I am being billed.</li><li>Another Side: Acceptance Criteria</li></ul></li><li>Kanban - A visual process management tool</li><li>Agile Estimation:<ul><li>Fibonacci Scale: 0 1 2 3 5 8 13</li><li>Exponitial Scale: 0 1 2 4 8 16</li><li>Planning Poker: Esimate on consensus</li></ul></li></ul><h2><span id="time-estimation">Time Estimation</span></h2><p>Different work item types have different estimation strategies, the work item pattern could be</p><ul><li>Research<ul><li>[3X][hard to estimate] <strong>Research to clearify the context</strong>, the more details, the accurate, <strong>time of this part could be unlimited, the more the better</strong>, 3X</li></ul></li><li>Learning<ul><li>[1.5X][easy to estimate] <strong>New technology ramp up</strong>, basic new technology is surely needed before start to work, with well prepared training materails, <strong>the time is fixed and easy to control</strong></li></ul></li><li>Design<ul><li>[2.5X][mediate to esitmate] <strong>System design</strong>, the more times we iterate in this stage, the better</li></ul></li><li>Coding<ul><li>[2X][mediate to estimate] <strong>Writing code based on previous stage</strong>, during this time, need to prepare<ul><li>Dependency project management</li><li>Clear</li></ul></li></ul></li><li>Testing</li></ul><h3><span id="reference">Reference</span></h3><ul><li><a href="https://www.linkedin.com/learning/agile-software-development/the-agile-approach?u=3322" target="_blank" rel="noopener">Agile Software Development</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#agile-fundamentals&quot;&gt;Agile Fundamentals&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#a
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Achitecture Foundations</title>
+    <link href="http://yoursite.com/2019/04/20/Architecture%20Foundations/"/>
+    <id>http://yoursite.com/2019/04/20/Architecture Foundations/</id>
+    <published>2019-04-19T16:00:00.000Z</published>
+    <updated>2019-05-22T23:22:38.062Z</updated>
+    
+    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#software-achitecture-introduction">Software Achitecture Introduction</a></li><li><a href="#traditional-architect">Traditional Architect</a></li><li><a href="#agile-architecutre">Agile Architecutre</a></li><li><a href="#thinking-architectually">Thinking Architectually</a></li><li><a href="#architectural-patterns">Architectural Patterns</a></li><li><a href="#architectural-management">Architectural Management</a></li></ul><!-- tocstop --><h3><span id="software-achitecture-introduction">Software Achitecture Introduction</span></h3><ul><li>Choose the component and connect them together</li><li>All effective architecture reflect the needs of your customers and of the domain or business</li><li>Start with the customers and works down towards the implementation</li><li>Work extensively as programmers in order to build that aesthetic sense</li></ul><h3><span id="traditional-architect">Traditional Architect</span></h3><ul><li>The cerntralized architect does all the thinking, everybody else does what whey’re told</li><li>Big and complex designs<ul><li>Code is written after design</li><li>Doesn’t capture the user’s true needs</li><li>Doesn’t allow for learning</li></ul></li><li>Lack of flexibility<ul><li>Painful bureaucratic processes</li><li>Not following the design</li><li>Random improvisation</li></ul></li><li>Slow developemnt process<ul><li>Centralized architect-making decisions</li><li>Wasted time and money</li></ul></li><li>Use code and draw together to decribe design</li></ul><h3><span id="agile-architecutre">Agile Architecutre</span></h3><ul><li>Inspect and Adapt Loop<ul><li>Build/refine -&gt; Deploy -&gt; Review -&gt; Talk to users</li><li>Run experiment if you</li><li>Learn and design incrementally as the system involves</li></ul></li><li>Agile<ul><li>Everybody is an architect</li><li>Nobody asks permission to expriement</li></ul></li><li>Agile Architect - Servant Leader<ul><li>Teaching</li><li>Coaching</li><li>Coordinating</li></ul></li><li>Main design reponsibility: assures coherence across the system<ul><li>Reviews work</li><li>Makes suggestions</li><li>Helps refine processes</li></ul></li><li>Architects<ul><li>Keep big picture in their head</li><li>Say if we do this rather than that, we will doing better than xxx team</li><li>Helps team to fix problems</li><li>Nudges the structure of the architecture in the direction that their experiences tells them will work best</li><li>Help the team to make good decisions</li></ul></li><li>Good Architecture<ul><li>Simplicity</li><li>Maintainability</li><li>Testability</li></ul></li><li>Architecture &amp;&amp; Design Patterns<ul><li>Design patterns provide sets of optimal solutions</li><li>Architecture is the interaction of design patterns</li><li>The more systems you work with or on, the more you understand the trade-offs and interconnections</li></ul></li><li>Improve Technical Understanding<ul><li>Read Code</li><li>Study open-source projects</li><li>Education &amp;&amp; Reading</li><li>Go to vendor-focused conferences</li><li>Speak to other architects</li><li>Learn about technologies used in real systems</li><li>Write code</li><li>Create meetup</li><li>Work collabratively to solve problems</li><li>Design systems - Learn by practicing</li><li>Writing and Sharing</li></ul></li><li>Skilled architect must be skilled programmer</li></ul><h3><span id="thinking-architectually">Thinking Architectually</span></h3><ul><li>The architecutre of your software and the communication of your organizaiton has to match - Conway’s law</li><li>N-tier softeware is out of date</li><li>We use microservice</li><li>Incremental Design around user story</li><li>DDD</li><li>Bounded Context (Domain) - Class, Module, Package, Sub System</li></ul><h3><span id="architectural-patterns">Architectural Patterns</span></h3><ul><li>Monolith<br><img src="/images/monolith-architecture-time-consuming.png" alt="monolith"></li><li>Microkernel</li><li>Message-based architectures<ul><li>RMx</li><li>Message Bus</li><li>Pub/Sub Model (kafka’s architecture)</li></ul></li><li>Microservice<ul><li>Book Reference (<a href="https://learning.oreilly.com/library/view/building-microservices/9781491950340/" target="_blank" rel="noopener">Building Microservices</a>)</li></ul></li><li>Reactive Pattern</li></ul><h3><span id="architectural-management">Architectural Management</span></h3><ul><li>Learn from Alibaba, Facebook, Google<ul><li>Team technical sharing culture</li><li><strong>Cooperate and help first with redmond team</strong></li><li>Have v-team in mind</li><li>Great goal with great people<ul><li>Clear and great project first</li><li>Attract me to do this project</li></ul></li><li>Leadership for everyone<ul><li>Create Clarity</li><li>Generate Energy</li><li>Deliver Success</li></ul></li></ul></li></ul><p>Event Storming</p><p>Agent Tech - Messaging - - Caching - - Logging - - Monitoring -</p><p>Architects Do Research</p><ul><li>Programmers - Vendors - Conferences - Operations</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#software-achitecture-introduction&quot;&gt;Software Achitecture Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#traditional-arch
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Dependency Network Research</title>
     <link href="http://yoursite.com/2019/04/20/Dependency%20Management/"/>
     <id>http://yoursite.com/2019/04/20/Dependency Management/</id>
     <published>2019-04-19T16:00:00.000Z</published>
-    <updated>2019-06-15T01:21:57.037Z</updated>
+    <updated>2019-06-15T01:41:00.580Z</updated>
     
     <content type="html"><![CDATA[<h2><span id="dependency-network">Dependency Network</span></h2><p>One of the core area of Software Engineering is dependency management. This is also where micro-service come from. The core problem need to solve is </p><ul><li>How to split one big component to small components<ul><li>What’s the modularity of those small components ?<ul><li>Versioned component can not be too small, small versioned component can only be </li><li>Put small components that will be updated together into one big component</li><li></li></ul></li><li></li></ul></li></ul><h2><span id="reference">Reference</span></h2>]]></content>
     
@@ -155,55 +250,6 @@
 
 
 &lt;!-- toc -
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Agile Management</title>
-    <link href="http://yoursite.com/2019/04/20/Agile%20Management/"/>
-    <id>http://yoursite.com/2019/04/20/Agile Management/</id>
-    <published>2019-04-19T16:00:00.000Z</published>
-    <updated>2019-06-06T11:33:41.351Z</updated>
-    
-    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#agile-fundamentals">Agile Fundamentals</a><ul><li><a href="#conclusion">Conclusion</a></li><li><a href="#aigle-to-the-rescue">Aigle to the Rescue</a></li><li><a href="#agile-menifesto">Agile Menifesto</a></li><li><a href="#principles-behind-the-agile-manifesto">Principles behind the Agile Manifesto</a></li></ul></li><li><a href="#scrum-the-developer-perspective">Scrum: The Developer Perspective</a></li><li><a href="#agile-software-engineering-techniques">Agile Software Engineering Techniques</a></li><li><a href="#time-estimation">Time Estimation</a></li></ul><!-- tocstop --><h2><span id="agile-fundamentals">Agile Fundamentals</span></h2><h3><span id="conclusion">Conclusion</span></h3><ul><li>With Agile in mind that change is inevitable and we need to make full use of developer’s creativity and knowledge to build a better software. <code>We do high level planning and execute with agile in mind in every level for everyone</code></li></ul><h3><span id="aigle-to-the-rescue">Aigle to the Rescue</span></h3><ul><li>Change is inevitable</li><li>Software development is inherently risky</li><li>Successful software projects are dependent on creativity and knowledge of the development team</li><li>Detailed processes and predictive planning from top-down management can be impediment</li></ul><h3><span id="agile-menifesto">Agile Menifesto</span></h3><ul><li><a href="https://agilemanifesto.org" target="_blank" rel="noopener">Agile Menifesto Link</a></li><li>Individuals and interactions over processes and tools</li><li>Working software over comprehensive documentation</li><li>Customer collaboration over contract negotiation</li><li>Responding to change over following a plan</li></ul><h3><span id="principles-behind-the-agile-manifesto">Principles behind the Agile Manifesto</span></h3><ul><li><p><a href="https://agilemanifesto.org/" target="_blank" rel="noopener">Principles behind the Agile Manifesto Link</a></p></li><li><p>Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</p></li><li><p>Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.</p></li><li><p>Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.</p></li><li><p>Business people and developers must work together daily throughout the project.</p></li><li><p>Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.</p></li><li><p>The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.</p></li><li><p>Working software is the primary measure of progress.</p></li><li><p>Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.</p></li><li><p>Continuous attention to technical excellence and good design enhances agility.</p></li><li><p>Simplicity–the art of maximizing the amount of work not done–is essential.</p></li><li><p>The best architectures, requirements, and designs emerge from self-organizing teams.</p></li><li><p>At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.</p></li></ul><h2><span id="scrum-the-developer-perspective">Scrum: The Developer Perspective</span></h2><ul><li><a href="https://www.scrumguides.org/" target="_blank" rel="noopener">Scrum Guide Link</a>. Scrum is a framework for developing and sustaining complex products.</li><li>More abstract in nature</li></ul><h2><span id="agile-software-engineering-techniques">Agile Software Engineering Techniques</span></h2><p>Compare with Scrum, XP is more prescriptive and implementation centric.</p><ul><li>Exetreme Programming (XP)</li><li>Pair programming - One of the key practices of Extreme Programming</li><li>TDD, BDD,</li><li>User Story:<ul><li>One Side: As a XXX, I should be able to XXX, so I know how I am being billed.</li><li>Another Side: Acceptance Criteria</li></ul></li><li>Kanban - A visual process management tool</li><li>Agile Estimation:<ul><li>Fibonacci Scale: 0 1 2 3 5 8 13</li><li>Exponitial Scale: 0 1 2 4 8 16</li><li>Planning Poker: Esimate on consensus</li></ul></li></ul><h2><span id="time-estimation">Time Estimation</span></h2><p>Different work item types have different estimation strategies, the work item pattern could be</p><ul><li>Research<ul><li>[3X][hard to estimate] <strong>Research to clearify the context</strong>, the more details, the accurate, <strong>time of this part could be unlimited, the more the better</strong>, 3X</li></ul></li><li>Learning<ul><li>[1.5X][easy to estimate] <strong>New technology ramp up</strong>, basic new technology is surely needed before start to work, with well prepared training materails, <strong>the time is fixed and easy to control</strong></li></ul></li><li>Design<ul><li>[2.5X][mediate to esitmate] <strong>System design</strong>, the more times we iterate in this stage, the better</li></ul></li><li>Coding<ul><li>[2X][mediate to estimate] <strong>Writing code based on previous stage</strong>, during this time, need to prepare<ul><li>Dependency project management</li><li>Clear</li></ul></li></ul></li><li>Testing</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- toc --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#agile-fundamentals&quot;&gt;Agile Fundamentals&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#a
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Achitecture Foundations</title>
-    <link href="http://yoursite.com/2019/04/20/Architecture%20Foundations/"/>
-    <id>http://yoursite.com/2019/04/20/Architecture Foundations/</id>
-    <published>2019-04-19T16:00:00.000Z</published>
-    <updated>2019-05-22T23:22:38.062Z</updated>
-    
-    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#software-achitecture-introduction">Software Achitecture Introduction</a></li><li><a href="#traditional-architect">Traditional Architect</a></li><li><a href="#agile-architecutre">Agile Architecutre</a></li><li><a href="#thinking-architectually">Thinking Architectually</a></li><li><a href="#architectural-patterns">Architectural Patterns</a></li><li><a href="#architectural-management">Architectural Management</a></li></ul><!-- tocstop --><h3><span id="software-achitecture-introduction">Software Achitecture Introduction</span></h3><ul><li>Choose the component and connect them together</li><li>All effective architecture reflect the needs of your customers and of the domain or business</li><li>Start with the customers and works down towards the implementation</li><li>Work extensively as programmers in order to build that aesthetic sense</li></ul><h3><span id="traditional-architect">Traditional Architect</span></h3><ul><li>The cerntralized architect does all the thinking, everybody else does what whey’re told</li><li>Big and complex designs<ul><li>Code is written after design</li><li>Doesn’t capture the user’s true needs</li><li>Doesn’t allow for learning</li></ul></li><li>Lack of flexibility<ul><li>Painful bureaucratic processes</li><li>Not following the design</li><li>Random improvisation</li></ul></li><li>Slow developemnt process<ul><li>Centralized architect-making decisions</li><li>Wasted time and money</li></ul></li><li>Use code and draw together to decribe design</li></ul><h3><span id="agile-architecutre">Agile Architecutre</span></h3><ul><li>Inspect and Adapt Loop<ul><li>Build/refine -&gt; Deploy -&gt; Review -&gt; Talk to users</li><li>Run experiment if you</li><li>Learn and design incrementally as the system involves</li></ul></li><li>Agile<ul><li>Everybody is an architect</li><li>Nobody asks permission to expriement</li></ul></li><li>Agile Architect - Servant Leader<ul><li>Teaching</li><li>Coaching</li><li>Coordinating</li></ul></li><li>Main design reponsibility: assures coherence across the system<ul><li>Reviews work</li><li>Makes suggestions</li><li>Helps refine processes</li></ul></li><li>Architects<ul><li>Keep big picture in their head</li><li>Say if we do this rather than that, we will doing better than xxx team</li><li>Helps team to fix problems</li><li>Nudges the structure of the architecture in the direction that their experiences tells them will work best</li><li>Help the team to make good decisions</li></ul></li><li>Good Architecture<ul><li>Simplicity</li><li>Maintainability</li><li>Testability</li></ul></li><li>Architecture &amp;&amp; Design Patterns<ul><li>Design patterns provide sets of optimal solutions</li><li>Architecture is the interaction of design patterns</li><li>The more systems you work with or on, the more you understand the trade-offs and interconnections</li></ul></li><li>Improve Technical Understanding<ul><li>Read Code</li><li>Study open-source projects</li><li>Education &amp;&amp; Reading</li><li>Go to vendor-focused conferences</li><li>Speak to other architects</li><li>Learn about technologies used in real systems</li><li>Write code</li><li>Create meetup</li><li>Work collabratively to solve problems</li><li>Design systems - Learn by practicing</li><li>Writing and Sharing</li></ul></li><li>Skilled architect must be skilled programmer</li></ul><h3><span id="thinking-architectually">Thinking Architectually</span></h3><ul><li>The architecutre of your software and the communication of your organizaiton has to match - Conway’s law</li><li>N-tier softeware is out of date</li><li>We use microservice</li><li>Incremental Design around user story</li><li>DDD</li><li>Bounded Context (Domain) - Class, Module, Package, Sub System</li></ul><h3><span id="architectural-patterns">Architectural Patterns</span></h3><ul><li>Monolith<br><img src="/images/monolith-architecture-time-consuming.png" alt="monolith"></li><li>Microkernel</li><li>Message-based architectures<ul><li>RMx</li><li>Message Bus</li><li>Pub/Sub Model (kafka’s architecture)</li></ul></li><li>Microservice<ul><li>Book Reference (<a href="https://learning.oreilly.com/library/view/building-microservices/9781491950340/" target="_blank" rel="noopener">Building Microservices</a>)</li></ul></li><li>Reactive Pattern</li></ul><h3><span id="architectural-management">Architectural Management</span></h3><ul><li>Learn from Alibaba, Facebook, Google<ul><li>Team technical sharing culture</li><li><strong>Cooperate and help first with redmond team</strong></li><li>Have v-team in mind</li><li>Great goal with great people<ul><li>Clear and great project first</li><li>Attract me to do this project</li></ul></li><li>Leadership for everyone<ul><li>Create Clarity</li><li>Generate Energy</li><li>Deliver Success</li></ul></li></ul></li></ul><p>Event Storming</p><p>Agent Tech - Messaging - - Caching - - Logging - - Monitoring -</p><p>Architects Do Research</p><ul><li>Programmers - Vendors - Conferences - Operations</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- toc --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#software-achitecture-introduction&quot;&gt;Software Achitecture Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#traditional-arch
       
     
     </summary>
